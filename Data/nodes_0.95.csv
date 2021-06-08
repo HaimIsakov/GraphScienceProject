@@ -1,0 +1,1292 @@
+1;ADD;Addis Ababa;38.799444;8.977778;65;ET;Ethiopia;1;Eastern Africa;1; Africa
+2;ASM;Asmara;38.910556;15.291944;63;ER;Eritrea;1;Eastern Africa;1; Africa
+3;BJM;Bujumbura;29.318611;-3.323889;24;BI;Burundi;1;Eastern Africa;1; Africa
+4;DAR;Dar es Salaam;39.202500;-6.878056;211;TZ;Tanzania United Republic of;1;Eastern Africa;1; Africa
+5;EBB;Entebbe;32.443611;0.042500;213;UG;Uganda;1;Eastern Africa;1; Africa
+6;HRE;Harare;31.092778;-17.931944;230;ZW;Zimbabwe;1;Eastern Africa;1; Africa
+7;JRO;Kilimanjaro;37.074444;-3.429444;211;TZ;Tanzania United Republic of;1;Eastern Africa;1; Africa
+8;KGL;Kigali;30.139444;-1.968611;179;RW;Rwanda;1;Eastern Africa;1; Africa
+9;KIS;Kisumu;34.729722;-0.085556;105;KE;Kenya;1;Eastern Africa;1; Africa
+10;LUN;Lusaka;28.452500;-15.330833;229;ZM;Zambia;1;Eastern Africa;1; Africa
+11;MBA;Mombasa;39.599722;-4.028056;105;KE;Kenya;1;Eastern Africa;1; Africa
+12;MPM;Maputo;32.572500;-25.920833;148;MZ;Mozambique;1;Eastern Africa;1; Africa
+13;MRU;Mauritius;57.683611;-20.430278;143;MU;Mauritius;1;Eastern Africa;1; Africa
+14;MWZ;Mwanza;32.932778;-2.444444;211;TZ;Tanzania United Republic of;1;Eastern Africa;1; Africa
+15;NBO;Nairobi Jomo Kenyatta International Apt;36.927778;-1.319167;105;KE;Kenya;1;Eastern Africa;1; Africa
+16;RUN;St-Denis;55.510278;-20.887222;175;RE;Reunion;1;Eastern Africa;1; Africa
+17;SEZ;Mahe Island;55.521944;-4.674444;182;SC;Seychelles;1;Eastern Africa;1; Africa
+18;TNR;Antananarivo;47.478889;-18.796944;131;MG;Madagascar;1;Eastern Africa;1; Africa
+19;VFA;Victoria Falls;25.838889;-18.095833;230;ZW;Zimbabwe;1;Eastern Africa;1; Africa
+20;ZNZ;Zanzibar;39.225000;-6.221944;211;TZ;Tanzania United Republic of;1;Eastern Africa;1; Africa
+21;BZV;Brazzaville;15.253056;-4.251667;39;CG;Congo;2;Middle Africa;1; Africa
+22;CAB;Cabinda;12.188056;-5.597222;9;AO;Angola;2;Middle Africa;1; Africa
+23;DLA;Douala;9.719444;4.006111;44;CM;Cameroon;2;Middle Africa;1; Africa
+24;FIH;Kinshasa N'Djili Intl Apt;15.444444;-4.385833;37;CD;Congo Democratic Republic of;2;Middle Africa;1; Africa
+25;LAD;Luanda;13.231111;-8.858333;9;AO;Angola;2;Middle Africa;1; Africa
+26;LBV;Libreville;9.412222;0.458611;72;GA;Gabon;2;Middle Africa;1; Africa
+27;NDJ;N'Djamena;15.033889;12.133611;199;TD;Chad;2;Middle Africa;1; Africa
+28;NSI;Yaounde Nsimalen Intl Apt;11.553333;3.722500;44;CM;Cameroon;2;Middle Africa;1; Africa
+29;PNR;Pointe-Noire;11.886667;-4.816111;39;CG;Congo;2;Middle Africa;1; Africa
+30;SSG;Malabo;8.708611;3.755278;83;GQ;Equatorial Guinea;2;Middle Africa;1; Africa
+31;AAE;Annaba;7.809167;36.822222;59;DZ;Algeria;3;Northern Africa;1; Africa
+32;AGA;Agadir;-9.413056;30.325000;127;MA;Morocco;3;Northern Africa;1; Africa
+33;ALG;Algiers;3.214722;36.694167;59;DZ;Algeria;3;Northern Africa;1; Africa
+34;BEN;Benghazi;20.269444;32.096667;126;LY;Libyan Arab Jamahiriya;3;Northern Africa;1; Africa
+35;BJA;Bejaia;5.070000;36.711944;59;DZ;Algeria;3;Northern Africa;1; Africa
+36;CAI;Cairo;31.405556;30.121944;62;EG;Egypt;3;Northern Africa;1; Africa
+37;CMN;Casablanca Mohammed V Apt;-7.590000;33.367500;127;MA;Morocco;3;Northern Africa;1; Africa
+38;CZL;Constantine;6.620278;36.276111;59;DZ;Algeria;3;Northern Africa;1; Africa
+39;DJE;Djerba;10.775556;33.875000;205;TN;Tunisia;3;Northern Africa;1; Africa
+40;FEZ;Fes;-4.978056;33.927222;127;MA;Morocco;3;Northern Africa;1; Africa
+41;HBE;Alexandria Borg el Arab;29.696389;30.917778;62;EG;Egypt;3;Northern Africa;1; Africa
+42;HRG;Hurghada;33.801389;27.178611;62;EG;Egypt;3;Northern Africa;1; Africa
+43;JUB;Juba;31.601111;4.871944;231;SS;South Sudan;3;Northern Africa;1; Africa
+44;KRT;Khartoum;32.553056;15.589444;183;SD;Sudan;3;Northern Africa;1; Africa
+45;LXR;Luxor;32.706667;25.671111;62;EG;Egypt;3;Northern Africa;1; Africa
+46;MIR;Monastir;10.754722;35.758056;205;TN;Tunisia;3;Northern Africa;1; Africa
+47;MRA;Misurata;15.061389;32.321944;126;LY;Libyan Arab Jamahiriya;3;Northern Africa;1; Africa
+48;NBE;Enfidha;10.438333;36.075556;205;TN;Tunisia;3;Northern Africa;1; Africa
+49;NDR;Nador;-3.028333;34.988889;127;MA;Morocco;3;Northern Africa;1; Africa
+50;ORN;Oran Es Senia Apt;-0.621111;35.623889;59;DZ;Algeria;3;Northern Africa;1; Africa
+51;OUD;Oujda;-1.923889;34.787222;127;MA;Morocco;3;Northern Africa;1; Africa
+52;QSF;Setif;5.324444;36.178056;59;DZ;Algeria;3;Northern Africa;1; Africa
+53;RAK;Marrakech;-8.036389;31.606944;127;MA;Morocco;3;Northern Africa;1; Africa
+54;RBA;Rabat;-6.751389;34.051389;127;MA;Morocco;3;Northern Africa;1; Africa
+55;SEB;Sebha;14.472500;26.986944;126;LY;Libyan Arab Jamahiriya;3;Northern Africa;1; Africa
+56;SFA;Sfax;10.691111;34.718056;205;TN;Tunisia;3;Northern Africa;1; Africa
+57;SSH;Sharm el-Sheikh;34.395000;27.977222;62;EG;Egypt;3;Northern Africa;1; Africa
+58;TIP;Tripoli;13.158889;32.663611;126;LY;Libyan Arab Jamahiriya;3;Northern Africa;1; Africa
+59;TNG;Tangier;-5.916944;35.726944;127;MA;Morocco;3;Northern Africa;1; Africa
+60;TUN;Tunis;10.227222;36.851111;205;TN;Tunisia;3;Northern Africa;1; Africa
+61;BFN;Bloemfontein;26.302500;-29.092778;228;ZA;South Africa;4;Southern Africa;1; Africa
+62;CPT;Cape Town;18.601667;-33.964722;228;ZA;South Africa;4;Southern Africa;1; Africa
+63;DUR;Durban King Shaka International Apt;31.116389;-29.614444;228;ZA;South Africa;4;Southern Africa;1; Africa
+64;ELS;East London;27.825833;-33.035556;228;ZA;South Africa;4;Southern Africa;1; Africa
+65;GBE;Gaborone;25.918333;-24.555278;32;BW;Botswana;4;Southern Africa;1; Africa
+66;GRJ;George;22.378889;-34.005556;228;ZA;South Africa;4;Southern Africa;1; Africa
+67;HLA;Johannesburg Lanseria International Apt;27.926111;-25.938611;228;ZA;South Africa;4;Southern Africa;1; Africa
+68;JNB;Johannesburg O.R. Tambo International;28.246111;-26.139167;228;ZA;South Africa;4;Southern Africa;1; Africa
+69;PLZ;Port Elizabeth;25.617222;-33.985000;228;ZA;South Africa;4;Southern Africa;1; Africa
+70;WDH;Windhoek Hosea Kutako International;17.470833;-22.480000;149;NA;Namibia;4;Southern Africa;1; Africa
+71;ABJ;Abidjan;-3.926389;5.261389;41;CI;Cote d'Ivoire;5;Western Africa;1; Africa
+72;ABV;Abuja;7.263056;9.006667;153;NG;Nigeria;5;Western Africa;1; Africa
+73;ACC;Accra;-0.166667;5.605278;77;GH;Ghana;5;Western Africa;1; Africa
+74;BJL;Banjul;-16.652222;13.338056;80;GM;Gambia;5;Western Africa;1; Africa
+75;BKO;Bamako;-7.950000;12.533611;134;ML;Mali;5;Western Africa;1; Africa
+76;BVC;Boa Vista Island;-22.888889;16.136667;50;CV;Cape Verde;5;Western Africa;1; Africa
+77;CKY;Conakry;-13.611944;9.576944;81;GN;Guinea;5;Western Africa;1; Africa
+78;COO;Cotonou;2.384444;6.357222;25;BJ;Benin;5;Western Africa;1; Africa
+79;DKR;Dakar;-17.493333;14.742500;191;SN;Senegal;5;Western Africa;1; Africa
+80;ENU;Enugu;7.561944;6.474167;153;NG;Nigeria;5;Western Africa;1; Africa
+81;FNA;Freetown Lungi International Apt;-13.195556;8.616389;189;SL;Sierra Leone;5;Western Africa;1; Africa
+82;KAN;Kano;8.524722;12.047500;153;NG;Nigeria;5;Western Africa;1; Africa
+83;KMS;Kumasi;-1.590833;6.714444;77;GH;Ghana;5;Western Africa;1; Africa
+84;LFW;Lome;1.254444;6.165556;200;TG;Togo;5;Western Africa;1; Africa
+85;LOS;Lagos;3.321111;6.577500;153;NG;Nigeria;5;Western Africa;1; Africa
+86;NIM;Niamey;2.176667;13.481111;151;NE;Niger;5;Western Africa;1; Africa
+87;NKC;Nouakchott;-15.948056;18.097778;140;MR;Mauritania;5;Western Africa;1; Africa
+88;OUA;Ouagadougou;-1.512500;12.353333;21;BF;Burkina Faso;5;Western Africa;1; Africa
+89;PHC;Port Harcourt;6.949722;5.015556;153;NG;Nigeria;5;Western Africa;1; Africa
+90;QOW;Owerri;7.206111;5.426944;153;NG;Nigeria;5;Western Africa;1; Africa
+91;RAI;Praia;-23.484722;14.941389;50;CV;Cape Verde;5;Western Africa;1; Africa
+92;ROB;Monrovia Roberts International Apt;-10.362222;6.233889;121;LR;Liberia;5;Western Africa;1; Africa
+93;SID;Sal Island;-22.949444;16.741389;50;CV;Cape Verde;5;Western Africa;1; Africa
+94;ANU;Antigua;-61.792778;17.136667;4;AG;Antigua and Barbuda, Leeward Islands;6;Caribbean;2; Americas
+95;AUA;Aruba;-70.015278;12.501389;15;AW;Aruba;6;Caribbean;2; Americas
+96;BGI;Barbados;-59.492500;13.074722;18;BB;Barbados;6;Caribbean;2; Americas
+97;BON;Bonaire;-68.268611;12.131111;232;BQ;Bonaire;6;Caribbean;2; Americas
+98;BQN;Aguadilla;-67.129444;18.495000;170;PR;Puerto Rico;6;Caribbean;2; Americas
+99;CCC;Cayo Coco;-78.328333;22.461111;49;CU;Cuba;6;Caribbean;2; Americas
+100;CUR;Curacao;-68.959722;12.188889;234;CW;Curacao;6;Caribbean;2; Americas
+101;FDF;Fort de France;-61.003056;14.591111;139;MQ;Martinique;6;Caribbean;2; Americas
+102;FPO;Freeport;-78.695556;26.558611;30;BS;Bahamas;6;Caribbean;2; Americas
+103;GCM;Grand Cayman;-81.357778;19.292778;114;KY;Cayman Islands;6;Caribbean;2; Americas
+104;GND;Grenada;-61.786111;12.004167;74;GD;Grenada, Windward Islands;6;Caribbean;2; Americas
+105;HAV;Havana;-82.407778;22.990278;49;CU;Cuba;6;Caribbean;2; Americas
+106;HOG;Holguin;-76.315000;20.785556;49;CU;Cuba;6;Caribbean;2; Americas
+107;KIN;Norman Manley Intl;-76.787500;17.935556;102;JM;Jamaica;6;Caribbean;2; Americas
+108;MBJ;Montego Bay;-77.913333;18.503611;102;JM;Jamaica;6;Caribbean;2; Americas
+109;NAS;Nassau;-77.466111;25.038889;30;BS;Bahamas;6;Caribbean;2; Americas
+110;PAP;Port au Prince;-72.292500;18.580000;92;HT;Haiti;6;Caribbean;2; Americas
+111;PLS;Providenciales;-72.265833;21.773611;198;TC;Turks and Caicos Islands;6;Caribbean;2; Americas
+112;POP;Puerto Plata;-70.570000;19.757778;58;DO;Dominican Republic;6;Caribbean;2; Americas
+113;POS;Port of Spain;-61.337222;10.595278;208;TT;Trinidad and Tobago;6;Caribbean;2; Americas
+114;PTP;Pointe-a-Pitre;-61.531944;16.265278;82;GP;Guadeloupe;6;Caribbean;2; Americas
+115;PUJ;Punta Cana;-68.363333;18.567500;58;DO;Dominican Republic;6;Caribbean;2; Americas
+116;SBH;St Barthelemy;-62.843611;17.904444;235;BL;Saint Barthelemy;6;Caribbean;2; Americas
+117;SDQ;Santo Domingo Las Americas Intl;-69.668889;18.429722;58;DO;Dominican Republic;6;Caribbean;2; Americas
+118;SJU;San Juan Luis Munoz Marin Intl Apt;-66.001944;18.439444;170;PR;Puerto Rico;6;Caribbean;2; Americas
+119;SKB;St Kitts;-62.718611;17.311111;110;KN;Saint Kitts and Nevis, Leeward Islands;6;Caribbean;2; Americas
+120;SNU;Santa Clara;-79.943611;22.492222;49;CU;Cuba;6;Caribbean;2; Americas
+121;STI;Santiago;-70.604722;19.406111;58;DO;Dominican Republic;6;Caribbean;2; Americas
+122;STT;St Thomas Cyril E King Apt;-64.973333;18.337222;221;VI;Virgin Islands, US;6;Caribbean;2; Americas
+123;STX;St Croix Henry E. Rohlsen Apt;-64.798611;17.701944;221;VI;Virgin Islands, US;6;Caribbean;2; Americas
+124;SXM;St Maarten;-63.108889;18.040833;236;SX;St Maarten (Dutch Part);6;Caribbean;2; Americas
+125;TAB;Tobago;-60.832222;11.149722;208;TT;Trinidad and Tobago;6;Caribbean;2; Americas
+126;UVF;Hewanorra Intl;-60.952500;13.733333;118;LC;Saint Lucia;6;Caribbean;2; Americas
+127;VRA;Juan G Gomez Intl;-81.435278;23.034444;49;CU;Cuba;6;Caribbean;2; Americas
+128;ACA;Acapulco;-99.753889;16.756944;146;MX;Mexico;7;Central America;2; Americas
+129;AGU;Aguascalientes;-102.317778;21.705556;146;MX;Mexico;7;Central America;2; Americas
+130;BJX;Leon/Guanajuato;-101.480833;20.993333;146;MX;Mexico;7;Central America;2; Americas
+131;BZE;Belize City Goldson Intl Apt;-88.308333;17.539167;34;BZ;Belize;7;Central America;2; Americas
+132;CJS;Ciudad Juarez;-106.428611;31.636111;146;MX;Mexico;7;Central America;2; Americas
+133;CME;Ciudad Del Carmen;-91.801111;18.653333;146;MX;Mexico;7;Central America;2; Americas
+134;CUL;Culiacan;-107.474722;24.764444;146;MX;Mexico;7;Central America;2; Americas
+135;CUN;Cancun;-86.877222;21.036667;146;MX;Mexico;7;Central America;2; Americas
+136;CUU;Chihuahua;-105.964444;28.702778;146;MX;Mexico;7;Central America;2; Americas
+137;CZM;Cozumel;-86.936944;20.521667;146;MX;Mexico;7;Central America;2; Americas
+138;GDL;Guadalajara;-103.311111;20.521667;146;MX;Mexico;7;Central America;2; Americas
+139;GUA;Guatemala City;-90.527222;14.584444;85;GT;Guatemala;7;Central America;2; Americas
+140;HMO;Hermosillo;-111.047778;29.095833;146;MX;Mexico;7;Central America;2; Americas
+141;HUX;Huatulco;-96.262500;15.775278;146;MX;Mexico;7;Central America;2; Americas
+142;LAP;La Paz;-110.362500;24.072778;146;MX;Mexico;7;Central America;2; Americas
+143;LIR;Liberia;-85.544444;10.593333;47;CR;Costa Rica;7;Central America;2; Americas
+144;MEX;Mexico City Juarez Intl;-99.072222;19.436389;146;MX;Mexico;7;Central America;2; Americas
+145;MGA;Managua;-86.168056;12.141389;154;NI;Nicaragua;7;Central America;2; Americas
+146;MID;Merida;-89.657778;20.936944;146;MX;Mexico;7;Central America;2; Americas
+147;MLM;Morelia;-101.025556;19.850000;146;MX;Mexico;7;Central America;2; Americas
+148;MTY;Monterrey Mariano Escobedo Intl;-100.106944;25.778611;146;MX;Mexico;7;Central America;2; Americas
+149;MXL;Mexicali;-115.241667;32.630556;146;MX;Mexico;7;Central America;2; Americas
+150;MZT;Mazatlan;-106.266111;23.161389;146;MX;Mexico;7;Central America;2; Americas
+151;OAX;Oaxaca;-96.725000;17.002778;146;MX;Mexico;7;Central America;2; Americas
+152;PTY;Panama City Tocumen International;-79.383333;9.071389;162;PA;Panama;7;Central America;2; Americas
+153;PVR;Puerto Vallarta;-105.254167;20.680000;146;MX;Mexico;7;Central America;2; Americas
+154;REX;Reynosa;-98.228611;26.008889;146;MX;Mexico;7;Central America;2; Americas
+155;SAL;San Salvador;-89.055833;13.440833;195;SV;El Salvador;7;Central America;2; Americas
+156;SAP;San Pedro Sula;-87.923611;15.452778;90;HN;Honduras;7;Central America;2; Americas
+157;SJD;San Jose Cabo;-109.721111;23.151944;146;MX;Mexico;7;Central America;2; Americas
+158;SJO;San Jose Juan Santamaria Apt;-84.208889;9.993889;47;CR;Costa Rica;7;Central America;2; Americas
+159;SLP;San Luis Potosi;-100.930833;22.254167;146;MX;Mexico;7;Central America;2; Americas
+160;TAM;Tampico;-97.865833;22.296389;146;MX;Mexico;7;Central America;2; Americas
+161;TGU;Tegucigalpa;-87.217222;14.060833;90;HN;Honduras;7;Central America;2; Americas
+162;TGZ;Tuxtla Gutierrez;-93.026111;16.561944;146;MX;Mexico;7;Central America;2; Americas
+163;TIJ;Tijuana;-116.970278;32.541111;146;MX;Mexico;7;Central America;2; Americas
+164;TLC;Mexico City Toluca-A.Lopez Mateos;-99.566111;19.336944;146;MX;Mexico;7;Central America;2; Americas
+165;TRC;Torreon;-103.410556;25.568333;146;MX;Mexico;7;Central America;2; Americas
+166;VER;Veracruz;-96.187222;19.145833;146;MX;Mexico;7;Central America;2; Americas
+167;VSA;Villahermosa;-92.817500;17.996944;146;MX;Mexico;7;Central America;2; Americas
+168;ZIH;Ixtapa/Zihuatanejo;-101.460556;17.601667;146;MX;Mexico;7;Central America;2; Americas
+169;ADZ;San Andres Island;-81.711111;12.583611;46;CO;Colombia;8;South America;2; Americas
+170;AEP;Buenos Aires Aeroparque J. Newbery;-58.416389;-34.558889;11;AR;Argentina;8;South America;2; Americas
+171;AJU;Aracaju;-37.070278;-10.983889;29;BR;Brazil;8;South America;2; Americas
+172;ANF;Antofagasta;-70.445000;-23.444444;43;CL;Chile;8;South America;2; Americas
+173;AQP;Arequipa;-71.572500;-16.340833;163;PE;Peru;8;South America;2; Americas
+174;ARI;Arica;-70.338611;-18.348611;43;CL;Chile;8;South America;2; Americas
+175;ASU;Asuncion;-57.519167;-25.239722;173;PY;Paraguay;8;South America;2; Americas
+176;BAQ;Barranquilla;-74.780833;10.889722;46;CO;Colombia;8;South America;2; Americas
+177;BBA;Balmaceda;-71.689444;-45.916111;43;CL;Chile;8;South America;2; Americas
+178;BEL;Belem;-48.476389;-1.379167;29;BR;Brazil;8;South America;2; Americas
+179;BGA;Bucaramanga;-73.184722;7.126389;46;CO;Colombia;8;South America;2; Americas
+180;BHI;Bahia Blanca;-62.153333;-38.727222;11;AR;Argentina;8;South America;2; Americas
+181;BLA;Barcelona;-64.689167;10.107222;219;VE;Venezuela;8;South America;2; Americas
+182;BOG;Bogota;-74.146944;4.701667;46;CO;Colombia;8;South America;2; Americas
+183;BPS;Porto Seguro;-39.080833;-16.438611;29;BR;Brazil;8;South America;2; Americas
+184;BRC;San Carlos Bariloche;-71.157778;-41.151111;11;AR;Argentina;8;South America;2; Americas
+185;BRM;Barquisimeto;-69.358611;10.042778;219;VE;Venezuela;8;South America;2; Americas
+186;BSB;Brasilia;-47.918611;-15.871111;29;BR;Brazil;8;South America;2; Americas
+187;BVB;Boa Vista;-60.690000;2.846389;29;BR;Brazil;8;South America;2; Americas
+188;CAY;Cayenne;-52.360556;4.819722;76;GF;French Guiana;8;South America;2; Americas
+189;CBB;Cochabamba;-66.177222;-17.421111;28;BO;Bolivia;8;South America;2; Americas
+190;CCP;Concepcion;-73.063056;-36.772778;43;CL;Chile;8;South America;2; Americas
+191;CCS;Caracas;-66.990556;10.603056;219;VE;Venezuela;8;South America;2; Americas
+192;CGB;Cuiaba;-56.116667;-15.653056;29;BR;Brazil;8;South America;2; Americas
+193;CGH;Sao Paulo Congonhas Apt;-46.658056;-23.626667;29;BR;Brazil;8;South America;2; Americas
+194;CGR;Campo Grande;-54.672500;-20.468611;29;BR;Brazil;8;South America;2; Americas
+195;CIX;Chiclayo;-79.828056;-6.787500;163;PE;Peru;8;South America;2; Americas
+196;CJC;Calama;-68.908056;-22.498056;43;CL;Chile;8;South America;2; Americas
+197;CLO;Cali;-76.381667;3.543333;46;CO;Colombia;8;South America;2; Americas
+198;CNF;Belo Horizonte Tancredo Neves Int Apt;-43.968889;-19.633889;29;BR;Brazil;8;South America;2; Americas
+199;COR;Cordoba;-64.208333;-31.310000;11;AR;Argentina;8;South America;2; Americas
+200;CPO;Copiapo;-70.779167;-27.261667;43;CL;Chile;8;South America;2; Americas
+201;CPQ;Campinas;-47.269444;-22.756111;29;BR;Brazil;8;South America;2; Americas
+202;CRD;Comodoro Rivadavia;-67.465556;-45.785278;11;AR;Argentina;8;South America;2; Americas
+203;CTG;Cartagena;-75.513056;10.442500;46;CO;Colombia;8;South America;2; Americas
+204;CUC;Cucuta;-72.511667;7.927500;46;CO;Colombia;8;South America;2; Americas
+205;CUE;Cuenca;-78.984444;-2.889444;60;EC;Ecuador;8;South America;2; Americas
+206;CUZ;Cuzco;-71.938889;-13.535833;163;PE;Peru;8;South America;2; Americas
+207;CWB;Curitiba Afonso Pena;-49.175833;-25.528611;29;BR;Brazil;8;South America;2; Americas
+208;EZE;Buenos Aires Ministro Pistarini;-58.535833;-34.822222;11;AR;Argentina;8;South America;2; Americas
+209;FLN;Florianopolis;-48.547222;-27.670556;29;BR;Brazil;8;South America;2; Americas
+210;FOR;Fortaleza;-38.532500;-3.776389;29;BR;Brazil;8;South America;2; Americas
+211;FTE;El Calafate;-72.053333;-50.280000;11;AR;Argentina;8;South America;2; Americas
+212;GEO;Georgetown;-58.254167;6.498611;88;GY;Guyana;8;South America;2; Americas
+213;GIG;Rio de Janeiro International Apt;-43.248333;-22.812500;29;BR;Brazil;8;South America;2; Americas
+214;GPS;Baltra Island;-90.265833;-0.453889;60;EC;Ecuador;8;South America;2; Americas
+215;GRU;Sao Paulo Guarulhos Intl Apt;-46.469444;-23.431944;29;BR;Brazil;8;South America;2; Americas
+216;GYE;Guayaquil;-79.883611;-2.157500;60;EC;Ecuador;8;South America;2; Americas
+217;GYN;Goiania;-49.220556;-16.631944;29;BR;Brazil;8;South America;2; Americas
+218;IGR;Iguazu;-54.473333;-25.737222;11;AR;Argentina;8;South America;2; Americas
+219;IGU;Foz do Iguacu;-54.487222;-25.596111;29;BR;Brazil;8;South America;2; Americas
+220;IMP;Imperatriz;-47.460000;-5.531389;29;BR;Brazil;8;South America;2; Americas
+221;IOS;Ilheus;-39.033333;-14.815833;29;BR;Brazil;8;South America;2; Americas
+222;IQQ;Iquique;-70.181389;-20.535278;43;CL;Chile;8;South America;2; Americas
+223;IQT;Iquitos;-73.308889;-3.784722;163;PE;Peru;8;South America;2; Americas
+224;JDO;Juazeiro do Norte;-39.271389;-7.218611;29;BR;Brazil;8;South America;2; Americas
+225;JOI;Joinville;-48.797500;-26.224444;29;BR;Brazil;8;South America;2; Americas
+226;JPA;Joao Pessoa;-34.950556;-7.148333;29;BR;Brazil;8;South America;2; Americas
+227;JUL;Juliaca;-70.158056;-15.467222;163;PE;Peru;8;South America;2; Americas
+228;LDB;Londrina;-51.130000;-23.333611;29;BR;Brazil;8;South America;2; Americas
+229;LIM;Lima;-77.114444;-12.021944;163;PE;Peru;8;South America;2; Americas
+230;LPB;La Paz;-68.192222;-16.513333;28;BO;Bolivia;8;South America;2; Americas
+231;LSC;La Serena;-71.199444;-29.916389;43;CL;Chile;8;South America;2; Americas
+232;MAB;Maraba;-49.138056;-5.368611;29;BR;Brazil;8;South America;2; Americas
+233;MAO;Manaus Eduardo Gomes International;-60.049722;-3.038611;29;BR;Brazil;8;South America;2; Americas
+234;MAR;Maracaibo;-71.727778;10.558333;219;VE;Venezuela;8;South America;2; Americas
+235;MCP;Macapa;-51.072222;0.050556;29;BR;Brazil;8;South America;2; Americas
+236;MCZ;Maceio;-35.791667;-9.510833;29;BR;Brazil;8;South America;2; Americas
+237;MDE;Medellin Jose Maria Cordova Intl;-75.423056;6.164444;46;CO;Colombia;8;South America;2; Americas
+238;MDZ;Mendoza;-68.792778;-32.831667;11;AR;Argentina;8;South America;2; Americas
+239;MEC;Manta;-80.678889;-0.946111;60;EC;Ecuador;8;South America;2; Americas
+240;MGF;Maringa;-52.015833;-23.476111;29;BR;Brazil;8;South America;2; Americas
+241;MOC;Montes Claros;-43.818889;-16.706944;29;BR;Brazil;8;South America;2; Americas
+242;MTR;Monteria;-75.825833;8.823611;46;CO;Colombia;8;South America;2; Americas
+243;MUN;Maturin;-63.153333;9.749167;219;VE;Venezuela;8;South America;2; Americas
+244;MVD;Montevideo;-56.030833;-34.838333;216;UY;Uruguay;8;South America;2; Americas
+245;NAT;Natal;-35.376111;-5.768056;29;BR;Brazil;8;South America;2; Americas
+246;NQN;Neuquen;-68.155833;-38.948889;11;AR;Argentina;8;South America;2; Americas
+247;NVT;Navegantes;-48.651389;-26.880000;29;BR;Brazil;8;South America;2; Americas
+248;PBM;Paramaribo Johan A Pengel Intl Apt;-55.187778;5.452778;193;SR;Suriname;8;South America;2; Americas
+249;PCL;Pucallpa;-74.574167;-8.378056;163;PE;Peru;8;South America;2; Americas
+250;PEI;Pereira;-75.739444;4.812778;46;CO;Colombia;8;South America;2; Americas
+251;PIU;Piura;-80.616389;-5.205833;163;PE;Peru;8;South America;2; Americas
+252;PLU;Belo Horizonte Pampulha Apt;-43.950556;-19.851111;29;BR;Brazil;8;South America;2; Americas
+253;PMC;Puerto Montt;-73.093889;-41.438889;43;CL;Chile;8;South America;2; Americas
+254;PMV;Porlamar;-63.967500;10.913056;219;VE;Venezuela;8;South America;2; Americas
+255;PMW;Palmas;-48.356944;-10.291389;29;BR;Brazil;8;South America;2; Americas
+256;PNZ;Petrolina;-40.569167;-9.362500;29;BR;Brazil;8;South America;2; Americas
+257;POA;Porto Alegre;-51.171389;-29.994444;29;BR;Brazil;8;South America;2; Americas
+258;PPB;President Prudente;-51.424722;-22.175000;29;BR;Brazil;8;South America;2; Americas
+259;PUQ;Punta Arenas;-70.854722;-53.002778;43;CL;Chile;8;South America;2; Americas
+260;PVH;Porto Velho;-63.902222;-8.709167;29;BR;Brazil;8;South America;2; Americas
+261;PZO;Puerto Ordaz;-62.760278;8.288611;219;VE;Venezuela;8;South America;2; Americas
+262;RAO;Ribeirao Preto;-47.774167;-21.134167;29;BR;Brazil;8;South America;2; Americas
+263;RBR;Rio Branco;-67.894167;-9.869167;29;BR;Brazil;8;South America;2; Americas
+264;REC;Recife;-34.923056;-8.126667;29;BR;Brazil;8;South America;2; Americas
+265;SCL;Santiago;-70.785833;-33.393056;43;CL;Chile;8;South America;2; Americas
+266;SDU;Rio de Janeiro Santos Dumont Apt;-43.163056;-22.910556;29;BR;Brazil;8;South America;2; Americas
+267;SJP;Sao Jose Do Rio Preto;-49.406389;-20.816667;29;BR;Brazil;8;South America;2; Americas
+268;SLA;Salta;-65.486944;-24.859722;11;AR;Argentina;8;South America;2; Americas
+269;SLZ;Sao Luiz;-44.234167;-2.585278;29;BR;Brazil;8;South America;2; Americas
+270;SMR;Santa Marta;-74.230556;11.119722;46;CO;Colombia;8;South America;2; Americas
+271;SSA;Salvador;-38.331111;-12.911111;29;BR;Brazil;8;South America;2; Americas
+272;STM;Santarem;-54.792778;-2.422500;29;BR;Brazil;8;South America;2; Americas
+273;TCQ;Tacna;-70.275833;-18.053333;163;PE;Peru;8;South America;2; Americas
+274;THE;Teresina;-42.823611;-5.060000;29;BR;Brazil;8;South America;2; Americas
+275;TPP;Tarapoto;-76.373333;-6.508611;163;PE;Peru;8;South America;2; Americas
+276;TRU;Trujillo;-79.109444;-8.084722;163;PE;Peru;8;South America;2; Americas
+277;TUC;Tucuman;-65.104722;-26.840833;11;AR;Argentina;8;South America;2; Americas
+278;UDI;Uberlandia;-48.225556;-18.882778;29;BR;Brazil;8;South America;2; Americas
+279;UIO;Quito;-78.488333;-0.141111;60;EC;Ecuador;8;South America;2; Americas
+280;USH;Ushuaia;-68.295556;-54.843333;11;AR;Argentina;8;South America;2; Americas
+281;VCP;Sao Paulo Viracopos Apt;-47.134722;-23.008056;29;BR;Brazil;8;South America;2; Americas
+282;VDC;Vitoria da Conquista;-40.863056;-14.862778;29;BR;Brazil;8;South America;2; Americas
+283;VIX;Vitoria;-40.286389;-20.258056;29;BR;Brazil;8;South America;2; Americas
+284;VLN;Valencia;-67.928333;10.149722;219;VE;Venezuela;8;South America;2; Americas
+285;VVI;Santa Cruz Viru Viru International Apt;-63.135278;-17.644722;28;BO;Bolivia;8;South America;2; Americas
+286;XAP;Chapeco;-52.656667;-27.134167;29;BR;Brazil;8;South America;2; Americas
+287;ZCO;Temuco;-72.646944;-38.926944;43;CL;Chile;8;South America;2; Americas
+288;ABE;Allentown/Bethlehem/Easton;-75.440833;40.652222;215;US;USA;9;Northern America;2; Americas
+289;ABQ;Albuquerque;-106.609444;35.040556;215;US;USA;9;Northern America;2; Americas
+290;ACY;Atlantic City International;-74.577222;39.457500;215;US;USA;9;Northern America;2; Americas
+291;AGS;Augusta Bush Field;-81.964444;33.370000;215;US;USA;9;Northern America;2; Americas
+292;ALB;Albany International Airport;-73.801667;42.748333;215;US;USA;9;Northern America;2; Americas
+293;AMA;Amarillo International Apt;-101.705833;35.219444;215;US;USA;9;Northern America;2; Americas
+294;ANC;Anchorage International Apt;-149.996389;61.174444;215;US;USA;9;Northern America;2; Americas
+295;ASE;Aspen;-106.867222;39.219167;215;US;USA;9;Northern America;2; Americas
+296;ATL;Atlanta Hartsfield-Jackson Intl Apt;-84.428056;33.636667;215;US;USA;9;Northern America;2; Americas
+297;ATW;Appleton;-88.516667;44.266667;215;US;USA;9;Northern America;2; Americas
+298;AUS;Austin-Bergstrom International Apt;-97.670000;30.194444;215;US;USA;9;Northern America;2; Americas
+299;AVL;Asheville;-82.541944;35.436111;215;US;USA;9;Northern America;2; Americas
+300;AVP;Wilkes-Barre Scranton International Apt;-75.723333;41.338611;215;US;USA;9;Northern America;2; Americas
+301;AZA;Phoenix Williams Gateway Airport;-111.656944;33.310000;215;US;USA;9;Northern America;2; Americas
+302;BDA;Bermuda;-64.678611;32.364167;26;BM;Bermuda;9;Northern America;2; Americas
+303;BDL;Hartford Bradley International Apt;-72.683333;41.938889;215;US;USA;9;Northern America;2; Americas
+304;BGR;Bangor;-68.828056;44.807500;215;US;USA;9;Northern America;2; Americas
+305;BHM;Birmingham;-86.753611;33.563056;215;US;USA;9;Northern America;2; Americas
+306;BIL;Billings;-108.542778;45.807778;215;US;USA;9;Northern America;2; Americas
+307;BIS;Bismarck;-100.745833;46.772222;215;US;USA;9;Northern America;2; Americas
+308;BKG;Branson;-93.199722;36.531667;215;US;USA;9;Northern America;2; Americas
+309;BLI;Bellingham;-122.537500;48.792778;215;US;USA;9;Northern America;2; Americas
+310;BMI;Bloomington-Normal;-88.915833;40.477222;215;US;USA;9;Northern America;2; Americas
+311;BNA;Nashville;-86.678333;36.124444;215;US;USA;9;Northern America;2; Americas
+312;BOI;Boise;-116.222778;43.564444;215;US;USA;9;Northern America;2; Americas
+313;BOS;Boston Logan International Apt;-71.005278;42.364444;215;US;USA;9;Northern America;2; Americas
+314;BTR;Baton Rouge Metropolitan Apt;-91.149722;30.533056;215;US;USA;9;Northern America;2; Americas
+315;BTV;Burlington;-73.153333;44.471944;215;US;USA;9;Northern America;2; Americas
+316;BUF;Buffalo;-78.732222;42.940556;215;US;USA;9;Northern America;2; Americas
+317;BUR;Burbank;-118.358611;34.200556;215;US;USA;9;Northern America;2; Americas
+318;BWI;Baltimore Washington International Apt;-76.668333;39.175278;215;US;USA;9;Northern America;2; Americas
+319;BZN;Bozeman;-111.153056;45.777500;215;US;USA;9;Northern America;2; Americas
+320;CAE;Columbia Metropolitan Apt;-81.119444;33.938889;215;US;USA;9;Northern America;2; Americas
+321;CAK;Akron/Canton Ohio Regional;-81.442222;40.916111;215;US;USA;9;Northern America;2; Americas
+322;CHA;Chattanooga Lovell Field Apt;-85.203889;35.035278;215;US;USA;9;Northern America;2; Americas
+323;CHO;Charlottesville;-78.452778;38.138611;215;US;USA;9;Northern America;2; Americas
+324;CHS;Charleston;-80.040556;32.898611;215;US;USA;9;Northern America;2; Americas
+325;CID;Cedar Rapids;-91.710833;41.884722;215;US;USA;9;Northern America;2; Americas
+326;CLE;Cleveland Hopkins International Apt;-81.849722;41.411667;215;US;USA;9;Northern America;2; Americas
+327;CLT;Charlotte;-80.943056;35.213889;215;US;USA;9;Northern America;2; Americas
+328;CMH;Columbus Port Columbus Intl Apt;-82.891944;39.998056;215;US;USA;9;Northern America;2; Americas
+329;COS;Colorado Springs Peterson Field;-104.700833;38.805833;215;US;USA;9;Northern America;2; Americas
+330;CRP;Corpus Christi International Apt;-97.501111;27.770278;215;US;USA;9;Northern America;2; Americas
+331;CRW;Charleston;-81.593056;38.373056;215;US;USA;9;Northern America;2; Americas
+332;CVG;Cincinnati Northern Kentucky Intl Apt;-84.667778;39.048889;215;US;USA;9;Northern America;2; Americas
+333;DAB;Daytona Beach;-81.058056;29.180000;215;US;USA;9;Northern America;2; Americas
+334;DAL;Dallas/Fort Worth Love Field;-96.851667;32.847222;215;US;USA;9;Northern America;2; Americas
+335;DAY;Dayton Intl Apt;-84.219444;39.902500;215;US;USA;9;Northern America;2; Americas
+336;DCA;Washington Ronald Reagan National Apt;-77.037778;38.852222;215;US;USA;9;Northern America;2; Americas
+337;DEN;Denver Intl Apt;-104.673056;39.861667;215;US;USA;9;Northern America;2; Americas
+338;DFW;Dallas/Fort Worth Intl Apt;-97.038056;32.896944;215;US;USA;9;Northern America;2; Americas
+339;DLH;Duluth International Apt;-92.193611;46.842222;215;US;USA;9;Northern America;2; Americas
+340;DRO;Durango La Plata Apt;-107.753611;37.152222;215;US;USA;9;Northern America;2; Americas
+341;DSM;Des Moines;-93.657778;41.534167;215;US;USA;9;Northern America;2; Americas
+342;DTW;Detroit Wayne County;-83.353333;42.212500;215;US;USA;9;Northern America;2; Americas
+343;ECP;Panama City NW Florida Beaches Intl;-85.798889;30.357778;215;US;USA;9;Northern America;2; Americas
+344;EGE;Vail/Eagle County Apt;-106.917778;39.642500;215;US;USA;9;Northern America;2; Americas
+345;ELP;El Paso International Apt;-106.398333;31.802500;215;US;USA;9;Northern America;2; Americas
+346;EUG;Eugene;-123.211944;44.124722;215;US;USA;9;Northern America;2; Americas
+347;EVV;Evansville;-87.532500;38.036944;215;US;USA;9;Northern America;2; Americas
+348;EWR;Newark Liberty International Apt;-74.168611;40.692500;215;US;USA;9;Northern America;2; Americas
+349;EYW;Key West International Apt;-81.759444;24.556111;215;US;USA;9;Northern America;2; Americas
+350;FAI;Fairbanks International Apt;-147.856389;64.815000;215;US;USA;9;Northern America;2; Americas
+351;FAR;Fargo;-96.815833;46.920556;215;US;USA;9;Northern America;2; Americas
+352;FAT;Fresno Yosemite International Airport;-119.718056;36.776111;215;US;USA;9;Northern America;2; Americas
+353;FAY;Fayetteville Municipal Apt;-78.883056;34.990000;215;US;USA;9;Northern America;2; Americas
+354;FCA;Kalispell;-114.256111;48.310556;215;US;USA;9;Northern America;2; Americas
+355;FLL;Fort Lauderdale/Hollywood Intl Apt;-80.152778;26.072500;215;US;USA;9;Northern America;2; Americas
+356;FNT;Flint;-83.743611;42.965556;215;US;USA;9;Northern America;2; Americas
+357;FSD;Sioux Falls;-96.741944;43.581944;215;US;USA;9;Northern America;2; Americas
+358;FWA;Fort Wayne Baer Field;-85.189722;40.983056;215;US;USA;9;Northern America;2; Americas
+359;GEG;Spokane International Apt;-117.540000;47.617222;215;US;USA;9;Northern America;2; Americas
+360;GJT;Grand Junction;-108.525833;39.123333;215;US;USA;9;Northern America;2; Americas
+361;GNV;Gainesville;-82.271667;29.690000;215;US;USA;9;Northern America;2; Americas
+362;GPT;Gulfport/Biloxi;-89.070000;30.407222;215;US;USA;9;Northern America;2; Americas
+363;GRB;Green Bay;-88.133889;44.485556;215;US;USA;9;Northern America;2; Americas
+364;GRK;Killeen Gray AAF;-97.828889;31.067222;215;US;USA;9;Northern America;2; Americas
+365;GRR;Grand Rapids;-85.522778;42.880833;215;US;USA;9;Northern America;2; Americas
+366;GSO;Greensboro/High Point;-79.937222;36.097778;215;US;USA;9;Northern America;2; Americas
+367;GSP;Greenville/Spartanburg Apt;-82.218889;34.895556;215;US;USA;9;Northern America;2; Americas
+368;GTF;Great Falls International Apt;-111.370556;47.481944;215;US;USA;9;Northern America;2; Americas
+369;HNL;Honolulu International Apt;-157.922222;21.327778;215;US;USA;9;Northern America;2; Americas
+370;HOU;Houston Hobby Apt;-95.278889;29.645556;215;US;USA;9;Northern America;2; Americas
+371;HPN;Westchester County;-73.707500;41.066944;215;US;USA;9;Northern America;2; Americas
+372;HRL;Harlingen;-97.654444;26.228611;215;US;USA;9;Northern America;2; Americas
+373;HSV;Huntsville International Airport;-86.775000;34.637222;215;US;USA;9;Northern America;2; Americas
+374;IAD;Washington Dulles International Apt;-77.455833;38.944444;215;US;USA;9;Northern America;2; Americas
+375;IAH;Houston George Bush Intercontinental Ap;-95.341389;29.984444;215;US;USA;9;Northern America;2; Americas
+376;ICT;Wichita Mid-Continent Apt;-97.433056;37.652778;215;US;USA;9;Northern America;2; Americas
+377;IDA;Idaho Falls;-112.070833;43.514444;215;US;USA;9;Northern America;2; Americas
+378;ILM;Wilmington;-77.902500;34.270556;215;US;USA;9;Northern America;2; Americas
+379;IND;Indianapolis;-86.294444;39.717222;215;US;USA;9;Northern America;2; Americas
+380;ISP;Long Island MacArthur;-73.100278;40.795278;215;US;USA;9;Northern America;2; Americas
+381;ITO;Hilo;-155.048333;19.721389;215;US;USA;9;Northern America;2; Americas
+382;JAC;Jackson;-110.737778;43.607222;215;US;USA;9;Northern America;2; Americas
+383;JAN;Jackson-Evers International Airport;-90.075833;32.311111;215;US;USA;9;Northern America;2; Americas
+384;JAX;Jacksonville International Apt;-81.687778;30.494167;215;US;USA;9;Northern America;2; Americas
+385;JFK;New York J F Kennedy International Apt;-73.778889;40.639722;215;US;USA;9;Northern America;2; Americas
+386;JNU;Juneau;-134.576389;58.355000;215;US;USA;9;Northern America;2; Americas
+387;KOA;Kona;-156.045556;19.738889;215;US;USA;9;Northern America;2; Americas
+388;KTN;Ketchikan International Apt;-131.713889;55.355556;215;US;USA;9;Northern America;2; Americas
+389;LAN;Lansing;-84.587222;42.778611;215;US;USA;9;Northern America;2; Americas
+390;LAS;Las Vegas McCarran International Apt;-115.152222;36.080000;215;US;USA;9;Northern America;2; Americas
+391;LAX;Los Angeles International Apt;-118.408056;33.942500;215;US;USA;9;Northern America;2; Americas
+392;LBB;Lubbock Preston Smith International Apt;-101.822778;33.663611;215;US;USA;9;Northern America;2; Americas
+393;LEX;Lexington Blue Grass Apt;-84.605833;38.036389;215;US;USA;9;Northern America;2; Americas
+394;LFT;Lafayette Regional Apt;-91.987500;30.205278;215;US;USA;9;Northern America;2; Americas
+395;LGA;New York La Guardia Apt;-73.872500;40.777222;215;US;USA;9;Northern America;2; Americas
+396;LGB;Long Beach Apt;-118.151667;33.817778;215;US;USA;9;Northern America;2; Americas
+397;LIH;Kauai Island Lihue Municipal Apt;-159.336111;21.976389;215;US;USA;9;Northern America;2; Americas
+398;LIT;Little Rock;-92.224444;34.729444;215;US;USA;9;Northern America;2; Americas
+399;MAF;Midland Odessa Regional Apt;-102.201944;31.942500;215;US;USA;9;Northern America;2; Americas
+400;MCI;Kansas City International Apt;-94.713889;39.297500;215;US;USA;9;Northern America;2; Americas
+401;MCO;Orlando International Apt;-81.308889;28.429444;215;US;USA;9;Northern America;2; Americas
+402;MDT;Harrisburg International Apt;-76.763333;40.193611;215;US;USA;9;Northern America;2; Americas
+403;MDW;Chicago Midway Apt;-87.752500;41.786111;215;US;USA;9;Northern America;2; Americas
+404;MEM;Memphis International Apt;-89.976667;35.042500;215;US;USA;9;Northern America;2; Americas
+405;MFE;McAllen;-98.238611;26.175833;215;US;USA;9;Northern America;2; Americas
+406;MFR;Medford;-122.873611;42.374167;215;US;USA;9;Northern America;2; Americas
+407;MGM;Montgomery Dannelly Field;-86.393889;32.300556;215;US;USA;9;Northern America;2; Americas
+408;MHT;Manchester;-71.435556;42.932500;215;US;USA;9;Northern America;2; Americas
+409;MIA;Miami International Apt;-80.290556;25.793333;215;US;USA;9;Northern America;2; Americas
+410;MKE;Milwaukee General Mitchell Intl Apt;-87.896667;42.947222;215;US;USA;9;Northern America;2; Americas
+411;MLB;Melbourne;-80.645278;28.102778;215;US;USA;9;Northern America;2; Americas
+412;MLI;Moline;-90.507500;41.448611;215;US;USA;9;Northern America;2; Americas
+413;MOB;Mobile Municipal Apt;-88.242778;30.691111;215;US;USA;9;Northern America;2; Americas
+414;MOT;Minot International Apt;-101.280278;48.259444;215;US;USA;9;Northern America;2; Americas
+415;MRY;Monterey Peninsula Apt;-121.843056;36.586944;215;US;USA;9;Northern America;2; Americas
+416;MSN;Madison;-89.337500;43.139722;215;US;USA;9;Northern America;2; Americas
+417;MSO;Missoula;-114.090556;46.916389;215;US;USA;9;Northern America;2; Americas
+418;MSP;Minneapolis International Apt;-93.221667;44.881944;215;US;USA;9;Northern America;2; Americas
+419;MSY;New Orleans Louis Armstrong Intl Apt;-90.258056;29.993333;215;US;USA;9;Northern America;2; Americas
+420;MYR;Myrtle Beach AFB;-78.928333;33.679722;215;US;USA;9;Northern America;2; Americas
+421;OAJ;Jacksonville;-77.439722;34.708333;215;US;USA;9;Northern America;2; Americas
+422;OAK;Oakland International Apt;-122.220833;37.721389;215;US;USA;9;Northern America;2; Americas
+423;OGG;Kahului;-156.430556;20.898611;215;US;USA;9;Northern America;2; Americas
+424;OKC;Oklahoma City Will Rogers Apt;-97.600833;35.393056;215;US;USA;9;Northern America;2; Americas
+425;OMA;Omaha Eppley Airfield;-95.894167;41.303056;215;US;USA;9;Northern America;2; Americas
+426;ONT;Ontario LA/Ontario International Apt;-117.601111;34.056111;215;US;USA;9;Northern America;2; Americas
+427;ORD;Chicago O'Hare International Apt;-87.904722;41.978611;215;US;USA;9;Northern America;2; Americas
+428;ORF;Norfolk International Apt;-76.201111;36.894722;215;US;USA;9;Northern America;2; Americas
+429;PBI;West Palm Beach International Apt;-80.095556;26.683056;215;US;USA;9;Northern America;2; Americas
+430;PDX;Portland;-122.597500;45.588611;215;US;USA;9;Northern America;2; Americas
+431;PHF;Newport News;-76.493056;37.131944;215;US;USA;9;Northern America;2; Americas
+432;PHL;Philadelphia International Apt;-75.241111;39.871944;215;US;USA;9;Northern America;2; Americas
+433;PHX;Phoenix Sky Harbor Intl Apt;-112.011667;33.434167;215;US;USA;9;Northern America;2; Americas
+434;PIA;Peoria;-89.693333;40.664167;215;US;USA;9;Northern America;2; Americas
+435;PIE;Tampa St Petersbrg-Clearwater Intl Apt;-82.687500;27.910278;215;US;USA;9;Northern America;2; Americas
+436;PIT;Pittsburgh International Apt;-80.232778;40.491389;215;US;USA;9;Northern America;2; Americas
+437;PNS;Pensacola International;-87.186667;30.473333;215;US;USA;9;Northern America;2; Americas
+438;PSC;Pasco;-119.116667;46.266667;215;US;USA;9;Northern America;2; Americas
+439;PSP;Palm Springs Municipal Apt;-116.506667;33.829722;215;US;USA;9;Northern America;2; Americas
+440;PVD;Providence;-71.425833;41.725000;215;US;USA;9;Northern America;2; Americas
+441;PWM;Portland;-70.309167;43.646111;215;US;USA;9;Northern America;2; Americas
+442;RAP;Rapid City Regional Apt;-103.056944;44.043056;215;US;USA;9;Northern America;2; Americas
+443;RDM;Redmond;-121.150000;44.254167;215;US;USA;9;Northern America;2; Americas
+444;RDU;Raleigh/Durham;-78.787500;35.877778;215;US;USA;9;Northern America;2; Americas
+445;RIC;Richmond;-77.319722;37.505278;215;US;USA;9;Northern America;2; Americas
+446;RNO;Reno;-119.768056;39.499167;215;US;USA;9;Northern America;2; Americas
+447;ROA;Roanoke;-79.975556;37.325556;215;US;USA;9;Northern America;2; Americas
+448;ROC;Rochester;-77.672500;43.118889;215;US;USA;9;Northern America;2; Americas
+449;RSW;Fort Myers SW Florida International Apt;-81.755278;26.536111;215;US;USA;9;Northern America;2; Americas
+450;SAN;San Diego International;-117.189722;32.733611;215;US;USA;9;Northern America;2; Americas
+451;SAT;San Antonio International Apt;-98.469722;29.533611;215;US;USA;9;Northern America;2; Americas
+452;SAV;Savannah/Hilton Head International Apt;-81.202222;32.127500;215;US;USA;9;Northern America;2; Americas
+453;SBA;Santa Barbara Municipal Apt;-119.840278;34.426111;215;US;USA;9;Northern America;2; Americas
+454;SBN;South Bend;-86.313056;41.704722;215;US;USA;9;Northern America;2; Americas
+455;SDF;Louisville International;-85.736111;38.174444;215;US;USA;9;Northern America;2; Americas
+456;SEA;Seattle/Tacoma International Apt;-122.309444;47.448889;215;US;USA;9;Northern America;2; Americas
+457;SFB;Orlando Sanford International Airport;-81.237500;28.777778;215;US;USA;9;Northern America;2; Americas
+458;SFO;San Francisco International Apt;-122.391667;37.618889;215;US;USA;9;Northern America;2; Americas
+459;SGF;Springfield;-93.388611;37.245556;215;US;USA;9;Northern America;2; Americas
+460;SHV;Shreveport Regional Apt;-93.828889;32.447222;215;US;USA;9;Northern America;2; Americas
+461;SJC;San Jose Norman Y. Mineta Intl;-121.928889;37.362500;215;US;USA;9;Northern America;2; Americas
+462;SLC;Salt Lake City;-111.977778;40.788333;215;US;USA;9;Northern America;2; Americas
+463;SMF;Sacramento International Apt;-121.590833;38.695556;215;US;USA;9;Northern America;2; Americas
+464;SNA;Santa Ana John Wayne Apt;-117.868333;33.675556;215;US;USA;9;Northern America;2; Americas
+465;SRQ;Sarasota/Bradenton;-82.554444;27.395556;215;US;USA;9;Northern America;2; Americas
+466;STL;St Louis Lambert Intl Apt;-90.370000;38.748611;215;US;USA;9;Northern America;2; Americas
+467;SYR;Syracuse;-76.106389;43.111111;215;US;USA;9;Northern America;2; Americas
+468;TLH;Tallahassee;-84.349722;30.391667;215;US;USA;9;Northern America;2; Americas
+469;TPA;Tampa International Apt;-82.533333;27.975556;215;US;USA;9;Northern America;2; Americas
+470;TRI;Tri-Cities Regional;-82.407500;36.475278;215;US;USA;9;Northern America;2; Americas
+471;TUL;Tulsa International Apt;-95.888056;36.198333;215;US;USA;9;Northern America;2; Americas
+472;TUS;Tucson International Apt;-110.941111;32.116111;215;US;USA;9;Northern America;2; Americas
+473;TVC;Traverse City;-85.582222;44.741389;215;US;USA;9;Northern America;2; Americas
+474;TYS;Knoxville;-83.994167;35.811111;215;US;USA;9;Northern America;2; Americas
+475;VPS;Valparaiso Fort Walton Beach Apt;-86.520000;30.486667;215;US;USA;9;Northern America;2; Americas
+476;XNA;Fayetteville Northwest Arkansas Reg Apt;-94.170000;36.004722;215;US;USA;9;Northern America;2; Americas
+477;YAM;Sault Ste Marie;-84.509444;46.485000;35;CA;Canada;9;Northern America;2; Americas
+478;YEG;Edmonton International Apt;-113.586111;53.307500;35;CA;Canada;9;Northern America;2; Americas
+479;YHM;Toronto John C Munro Hamilton;-79.928056;43.161944;35;CA;Canada;9;Northern America;2; Americas
+480;YHZ;Halifax Stanfield International Apt;-63.512778;44.886944;35;CA;Canada;9;Northern America;2; Americas
+481;YKA;Kamloops;-120.444444;50.702222;35;CA;Canada;9;Northern America;2; Americas
+482;YLW;Kelowna;-119.377778;49.956111;35;CA;Canada;9;Northern America;2; Americas
+483;YMM;Fort McMurray;-111.221944;56.653333;35;CA;Canada;9;Northern America;2; Americas
+484;YOW;McDonald -  Cartier Intl Apt;-75.669167;45.322500;35;CA;Canada;9;Northern America;2; Americas
+485;YQB;Quebec International Airport;-71.393333;46.791111;35;CA;Canada;9;Northern America;2; Americas
+486;YQM;Greater Moncton International Airport;-64.692500;46.106944;35;CA;Canada;9;Northern America;2; Americas
+487;YQQ;Comox;-124.886667;49.710833;35;CA;Canada;9;Northern America;2; Americas
+488;YQR;Regina;-104.657222;50.429444;35;CA;Canada;9;Northern America;2; Americas
+489;YQT;Thunder Bay;-89.323889;48.371944;35;CA;Canada;9;Northern America;2; Americas
+490;YQU;Grande Prairie;-118.885000;55.179722;35;CA;Canada;9;Northern America;2; Americas
+491;YSB;Sudbury;-80.798889;46.625000;35;CA;Canada;9;Northern America;2; Americas
+492;YTZ;Bishop Billy City A/P;-79.396111;43.627500;35;CA;Canada;9;Northern America;2; Americas
+493;YUL;Montreal Pierre Elliott Trudeau Int Apt;-73.740833;45.470556;35;CA;Canada;9;Northern America;2; Americas
+494;YVR;Vancouver International Apt;-123.184444;49.193889;35;CA;Canada;9;Northern America;2; Americas
+495;YWG;Winnipeg;-97.240000;49.910000;35;CA;Canada;9;Northern America;2; Americas
+496;YXE;Saskatoon;-106.699722;52.170833;35;CA;Canada;9;Northern America;2; Americas
+497;YXS;Prince George;-122.675833;53.881944;35;CA;Canada;9;Northern America;2; Americas
+498;YXU;London International;-81.153889;43.035556;35;CA;Canada;9;Northern America;2; Americas
+499;YXX;Abbotsford;-122.360556;49.025278;35;CA;Canada;9;Northern America;2; Americas
+500;YYC;Calgary;-114.020278;51.113889;35;CA;Canada;9;Northern America;2; Americas
+501;YYJ;Victoria International Apt;-123.425833;48.646944;35;CA;Canada;9;Northern America;2; Americas
+502;YYT;St Johns;-52.751944;47.618611;35;CA;Canada;9;Northern America;2; Americas
+503;YYZ;Lester B Pearson Intl;-79.630556;43.677222;35;CA;Canada;9;Northern America;2; Americas
+504;ALA;Almaty;77.042222;43.353333;115;KZ;Kazakhstan;10;Central Asia;3; Asia
+505;ASB;Ashgabat International;58.360833;37.986944;204;TM;Turkmenistan;10;Central Asia;3; Asia
+506;CIT;Shymkent;69.478889;42.364167;115;KZ;Kazakhstan;10;Central Asia;3; Asia
+507;DYU;Dushanbe;68.825000;38.543333;202;TJ;Tajikistan;10;Central Asia;3; Asia
+508;FRU;Bishkek;74.477500;43.061389;106;KG;Kyrgyzstan;10;Central Asia;3; Asia
+509;GUW;Atyrau;51.821389;47.121944;115;KZ;Kazakhstan;10;Central Asia;3; Asia
+510;LBD;Khujand;69.694722;40.215278;202;TJ;Tajikistan;10;Central Asia;3; Asia
+511;OSS;Osh;72.793333;40.608889;106;KG;Kyrgyzstan;10;Central Asia;3; Asia
+512;SCO;Aktau;51.091944;43.860000;115;KZ;Kazakhstan;10;Central Asia;3; Asia
+513;SKD;Samarkand;66.984722;39.700556;217;UZ;Uzbekistan;10;Central Asia;3; Asia
+514;TAS;Tashkent;69.281111;41.257778;217;UZ;Uzbekistan;10;Central Asia;3; Asia
+515;TSE;Astana;71.466944;51.023056;115;KZ;Kazakhstan;10;Central Asia;3; Asia
+516;AKJ;Asahikawa;142.447500;43.670833;104;JP;Japan;11;Eastern Asia;3; Asia
+517;AKU;Aksu;80.291944;41.262778;45;CN;China;11;Eastern Asia;3; Asia
+518;AOJ;Aomori;140.690833;40.734722;104;JP;Japan;11;Eastern Asia;3; Asia
+519;AXT;Akita;140.218611;39.615556;104;JP;Japan;11;Eastern Asia;3; Asia
+520;BAV;Baotou;109.996389;40.560556;45;CN;China;11;Eastern Asia;3; Asia
+521;BHY;Beihai;109.293889;21.539444;45;CN;China;11;Eastern Asia;3; Asia
+522;CAN;Guangzhou;113.298889;23.392500;45;CN;China;11;Eastern Asia;3; Asia
+523;CGD;Changde;111.640833;28.918611;45;CN;China;11;Eastern Asia;3; Asia
+524;CGO;Zhengzhou;113.841111;34.519444;45;CN;China;11;Eastern Asia;3; Asia
+525;CGQ;Changchun;125.685278;43.996111;45;CN;China;11;Eastern Asia;3; Asia
+526;CIF;Chifeng;118.840833;42.160000;45;CN;China;11;Eastern Asia;3; Asia
+527;CIH;Changzhi;113.125833;36.247500;45;CN;China;11;Eastern Asia;3; Asia
+528;CJJ;Cheongju;127.499167;36.716667;112;KR;Korea Republic of;11;Eastern Asia;3; Asia
+529;CJU;Jeju International;126.493056;33.511389;112;KR;Korea Republic of;11;Eastern Asia;3; Asia
+530;CKG;Chongqing;106.641944;29.719444;45;CN;China;11;Eastern Asia;3; Asia
+531;CSX;Changsha;113.217778;28.193611;45;CN;China;11;Eastern Asia;3; Asia
+532;CTS;Sapporo New Chitose Apt;141.692222;42.775278;104;JP;Japan;11;Eastern Asia;3; Asia
+533;CTU;Chengdu;103.947222;30.578611;45;CN;China;11;Eastern Asia;3; Asia
+534;CZX;Changzhou;119.778333;31.919444;45;CN;China;11;Eastern Asia;3; Asia
+535;DAT;Datong;113.146111;39.718889;45;CN;China;11;Eastern Asia;3; Asia
+536;DIG;Deqen;99.678056;27.791667;45;CN;China;11;Eastern Asia;3; Asia
+537;DLC;Dalian;121.538611;38.965556;45;CN;China;11;Eastern Asia;3; Asia
+538;DLU;Dali;100.319444;25.650278;45;CN;China;11;Eastern Asia;3; Asia
+539;DNH;Dunhuang;94.681667;40.092222;45;CN;China;11;Eastern Asia;3; Asia
+540;DQA;Daqing;125.139167;46.750000;45;CN;China;11;Eastern Asia;3; Asia
+541;DSN;Ordos;109.863056;39.492222;45;CN;China;11;Eastern Asia;3; Asia
+542;DYG;Zhangjiajie;110.443056;29.104444;45;CN;China;11;Eastern Asia;3; Asia
+543;ENH;Enshi;109.485278;30.321111;45;CN;China;11;Eastern Asia;3; Asia
+544;ENY;Yan'an;109.553333;36.636667;45;CN;China;11;Eastern Asia;3; Asia
+545;FKS;Fukushima;140.430556;37.227500;104;JP;Japan;11;Eastern Asia;3; Asia
+546;FOC;Fuzhou;119.663333;25.935000;45;CN;China;11;Eastern Asia;3; Asia
+547;FSZ;Shizuoka;138.180833;34.796944;104;JP;Japan;11;Eastern Asia;3; Asia
+548;FUG;Fuyang;115.733611;32.880833;45;CN;China;11;Eastern Asia;3; Asia
+549;FUK;Fukuoka;130.450556;33.585833;104;JP;Japan;11;Eastern Asia;3; Asia
+550;GMP;Seoul Gimpo International Airport;126.790556;37.558333;112;KR;Korea Republic of;11;Eastern Asia;3; Asia
+551;HAK;Haikou;110.458889;19.934722;45;CN;China;11;Eastern Asia;3; Asia
+552;HET;Hohhot;111.824167;40.851389;45;CN;China;11;Eastern Asia;3; Asia
+553;HFE;Hefei;116.989167;31.991111;45;CN;China;11;Eastern Asia;3; Asia
+554;HGH;Hangzhou;120.434444;30.229444;45;CN;China;11;Eastern Asia;3; Asia
+555;HIA;Huai'an;119.127778;33.787500;45;CN;China;11;Eastern Asia;3; Asia
+556;HIJ;Hiroshima;132.919444;34.436111;104;JP;Japan;11;Eastern Asia;3; Asia
+557;HKD;Hakodate;140.821944;41.770000;104;JP;Japan;11;Eastern Asia;3; Asia
+558;HKG;Hong Kong International Apt;113.914722;22.308889;89;HK;Hong Kong (SAR) China;11;Eastern Asia;3; Asia
+559;HLD;Hailar;119.816667;49.208611;45;CN;China;11;Eastern Asia;3; Asia
+560;HNA;Hanamaki;141.135278;39.428611;104;JP;Japan;11;Eastern Asia;3; Asia
+561;HND;Tokyo Intl (Haneda);139.779722;35.552222;104;JP;Japan;11;Eastern Asia;3; Asia
+562;HRB;Harbin;126.250278;45.623333;45;CN;China;11;Eastern Asia;3; Asia
+563;HSG;Saga;130.302222;33.149722;104;JP;Japan;11;Eastern Asia;3; Asia
+564;HSN;Zhoushan;122.361944;29.934722;45;CN;China;11;Eastern Asia;3; Asia
+565;HTN;Hotan;79.865000;37.038056;45;CN;China;11;Eastern Asia;3; Asia
+566;HUN;Hualien;121.617778;24.023056;210;TW;Taiwan;11;Eastern Asia;3; Asia
+567;HYN;Taizhou;121.430278;28.565278;45;CN;China;11;Eastern Asia;3; Asia
+568;IBR;Ibaraki;140.418056;36.178333;104;JP;Japan;11;Eastern Asia;3; Asia
+569;ICN;Seoul Incheon International Airport;126.450556;37.469167;112;KR;Korea Republic of;11;Eastern Asia;3; Asia
+570;INC;Yinchuan;106.011944;38.493333;45;CN;China;11;Eastern Asia;3; Asia
+571;ISG;New Ishigaki;124.245000;24.396389;104;JP;Japan;11;Eastern Asia;3; Asia
+572;ITM;Osaka Intl (Itami);135.438333;34.785556;104;JP;Japan;11;Eastern Asia;3; Asia
+573;IWK;Iwakuni;132.235556;34.135278;104;JP;Japan;11;Eastern Asia;3; Asia
+574;IZO;Izumo;132.890000;35.413611;104;JP;Japan;11;Eastern Asia;3; Asia
+575;JDZ;Jingdezhen;117.176389;29.339167;45;CN;China;11;Eastern Asia;3; Asia
+576;JGN;Jiayuguan;98.341389;39.857222;45;CN;China;11;Eastern Asia;3; Asia
+577;JGS;Ji'an;114.736389;26.857778;45;CN;China;11;Eastern Asia;3; Asia
+578;JHG;Jinghong;100.763056;21.973056;45;CN;China;11;Eastern Asia;3; Asia
+579;JJN;Quanzhou;118.588056;24.795556;45;CN;China;11;Eastern Asia;3; Asia
+580;JMU;Jiamusi;130.465278;46.843333;45;CN;China;11;Eastern Asia;3; Asia
+581;JNG;Jining;116.346667;35.293056;45;CN;China;11;Eastern Asia;3; Asia
+582;JZH;Jiuzhaigou;103.683056;32.856667;45;CN;China;11;Eastern Asia;3; Asia
+583;KCZ;Kochi;133.669444;33.546111;104;JP;Japan;11;Eastern Asia;3; Asia
+584;KHG;Kashi;76.020000;39.542500;45;CN;China;11;Eastern Asia;3; Asia
+585;KHH;Kaohsiung;120.350000;22.577222;210;TW;Taiwan;11;Eastern Asia;3; Asia
+586;KHN;Nanchang;115.902222;28.863889;45;CN;China;11;Eastern Asia;3; Asia
+587;KIJ;Niigata;139.120833;37.955833;104;JP;Japan;11;Eastern Asia;3; Asia
+588;KIX;Osaka Kansai International Airport;135.244167;34.427222;104;JP;Japan;11;Eastern Asia;3; Asia
+589;KKJ;Kitakyushu;131.034722;33.845833;104;JP;Japan;11;Eastern Asia;3; Asia
+590;KMG;Kunming;102.743611;24.992222;45;CN;China;11;Eastern Asia;3; Asia
+591;KMI;Miyazaki;131.448611;31.877222;104;JP;Japan;11;Eastern Asia;3; Asia
+592;KMJ;Kumamoto;130.855000;32.837222;104;JP;Japan;11;Eastern Asia;3; Asia
+593;KMQ;Komatsu;136.406667;36.394722;104;JP;Japan;11;Eastern Asia;3; Asia
+594;KNH;Kinmen;118.361667;24.429722;210;TW;Taiwan;11;Eastern Asia;3; Asia
+595;KOJ;Kagoshima;130.719444;31.803333;104;JP;Japan;11;Eastern Asia;3; Asia
+596;KOW;Ganzhou;114.775278;25.851389;45;CN;China;11;Eastern Asia;3; Asia
+597;KPO;Pohang;129.420556;35.987778;112;KR;Korea Republic of;11;Eastern Asia;3; Asia
+598;KRL;Korla;86.130278;41.699167;45;CN;China;11;Eastern Asia;3; Asia
+599;KUH;Kushiro;144.193056;43.040833;104;JP;Japan;11;Eastern Asia;3; Asia
+600;KWE;Guiyang;106.800833;26.538611;45;CN;China;11;Eastern Asia;3; Asia
+601;KWJ;Gwangju;126.808889;35.126389;112;KR;Korea Republic of;11;Eastern Asia;3; Asia
+602;KWL;Guilin;110.039167;25.218056;45;CN;China;11;Eastern Asia;3; Asia
+603;LHW;Lanzhou Zhongchuan Apt;103.616667;36.516667;45;CN;China;11;Eastern Asia;3; Asia
+604;LJG;Lijiang;100.243611;26.674167;45;CN;China;11;Eastern Asia;3; Asia
+605;LUM;Mangshi;98.532222;24.401389;45;CN;China;11;Eastern Asia;3; Asia
+606;LXA;Lhasa/Lasa;90.912222;29.298056;45;CN;China;11;Eastern Asia;3; Asia
+607;LYA;Luoyang;112.389444;34.741389;45;CN;China;11;Eastern Asia;3; Asia
+608;LYG;Lianyungang;118.873889;34.571944;45;CN;China;11;Eastern Asia;3; Asia
+609;LYI;Linyi;118.411944;35.049444;45;CN;China;11;Eastern Asia;3; Asia
+610;LZH;Liuzhou;109.391389;24.207778;45;CN;China;11;Eastern Asia;3; Asia
+611;LZO;Luzhou;105.393333;28.852778;45;CN;China;11;Eastern Asia;3; Asia
+612;MDG;Mudanjiang;129.568889;44.524167;45;CN;China;11;Eastern Asia;3; Asia
+613;MFM;Macau;113.591667;22.149444;137;MO;Macao (SAR) China;11;Eastern Asia;3; Asia
+614;MIG;Mianyang;104.740833;31.428889;45;CN;China;11;Eastern Asia;3; Asia
+615;MMB;Memambetsu;144.164167;43.880556;104;JP;Japan;11;Eastern Asia;3; Asia
+616;MMY;Miyako;125.295000;24.782778;104;JP;Japan;11;Eastern Asia;3; Asia
+617;MSJ;Misawa;141.368333;40.703333;104;JP;Japan;11;Eastern Asia;3; Asia
+618;MYJ;Matsuyama;132.699722;33.827222;104;JP;Japan;11;Eastern Asia;3; Asia
+619;MZG;Magong;119.628333;23.568611;210;TW;Taiwan;11;Eastern Asia;3; Asia
+620;NAY;Beijing Nanyuan Apt;116.386389;39.786389;45;CN;China;11;Eastern Asia;3; Asia
+621;NBS;Baishan;127.602500;42.065000;45;CN;China;11;Eastern Asia;3; Asia
+622;NGB;Ningbo;121.461944;29.826667;45;CN;China;11;Eastern Asia;3; Asia
+623;NGO;Nagoya Chubu Centrair International Apt;136.805278;34.858333;104;JP;Japan;11;Eastern Asia;3; Asia
+624;NGS;Nagasaki;129.913611;32.916944;104;JP;Japan;11;Eastern Asia;3; Asia
+625;NKG;Nanjing;118.861944;31.741944;45;CN;China;11;Eastern Asia;3; Asia
+626;NKM;Nagoya Komaki Airport;136.924444;35.255000;104;JP;Japan;11;Eastern Asia;3; Asia
+627;NNG;Nanning;108.172500;22.608333;45;CN;China;11;Eastern Asia;3; Asia
+628;NNY;Nanyang;112.615556;32.981111;45;CN;China;11;Eastern Asia;3; Asia
+629;NRT;Tokyo Narita Intl;140.386389;35.764722;104;JP;Japan;11;Eastern Asia;3; Asia
+630;NTG;Nantong;120.980278;32.072222;45;CN;China;11;Eastern Asia;3; Asia
+631;OBO;Obihiro;143.216667;42.733333;104;JP;Japan;11;Eastern Asia;3; Asia
+632;OIT;Oita;131.737222;33.479444;104;JP;Japan;11;Eastern Asia;3; Asia
+633;OKA;Okinawa Naha Apt;127.645833;26.195833;104;JP;Japan;11;Eastern Asia;3; Asia
+634;OKJ;Okayama;133.855278;34.756944;104;JP;Japan;11;Eastern Asia;3; Asia
+635;PEK;Beijing Capital Intl Apt;116.584444;40.080000;45;CN;China;11;Eastern Asia;3; Asia
+636;PUS;Busan;128.942500;35.176667;112;KR;Korea Republic of;11;Eastern Asia;3; Asia
+637;PVG;Shanghai Pudong International Apt;121.805278;31.143333;45;CN;China;11;Eastern Asia;3; Asia
+638;RMQ;Taichung;120.620833;24.265000;210;TW;Taiwan;11;Eastern Asia;3; Asia
+639;RSU;Yeosu/Suncheon;127.616944;34.842222;112;KR;Korea Republic of;11;Eastern Asia;3; Asia
+640;SDJ;Sendai;140.916944;38.139722;104;JP;Japan;11;Eastern Asia;3; Asia
+641;SHA;Shanghai Hongqiao International Apt;121.336389;31.197778;45;CN;China;11;Eastern Asia;3; Asia
+642;SHE;Shenyang;123.483333;41.639722;45;CN;China;11;Eastern Asia;3; Asia
+643;SJW;Shijiazhuang;114.697222;38.280556;45;CN;China;11;Eastern Asia;3; Asia
+644;SWA;Shantou;116.762500;23.427500;45;CN;China;11;Eastern Asia;3; Asia
+645;SYM;Simao;100.959167;22.794722;45;CN;China;11;Eastern Asia;3; Asia
+646;SYO;Shonai;139.787222;38.812222;104;JP;Japan;11;Eastern Asia;3; Asia
+647;SYX;Sanya;109.412222;18.302778;45;CN;China;11;Eastern Asia;3; Asia
+648;SZX;Shenzhen;113.810556;22.639167;45;CN;China;11;Eastern Asia;3; Asia
+649;TAE;Daegu;128.658889;35.894167;112;KR;Korea Republic of;11;Eastern Asia;3; Asia
+650;TAK;Takamatsu;134.015556;34.214167;104;JP;Japan;11;Eastern Asia;3; Asia
+651;TAO;Qingdao;120.374444;36.266111;45;CN;China;11;Eastern Asia;3; Asia
+652;TCZ;Tengchong;98.485556;24.937778;45;CN;China;11;Eastern Asia;3; Asia
+653;TGO;Tongliao;122.200000;43.557500;45;CN;China;11;Eastern Asia;3; Asia
+654;TKS;Tokushima;134.606667;34.132778;104;JP;Japan;11;Eastern Asia;3; Asia
+655;TNA;Jinan;117.216111;36.857222;45;CN;China;11;Eastern Asia;3; Asia
+656;TOY;Toyama;137.187500;36.648333;104;JP;Japan;11;Eastern Asia;3; Asia
+657;TPE;Taipei Taiwan Taoyuan International Apt;121.232778;25.077778;210;TW;Taiwan;11;Eastern Asia;3; Asia
+658;TSA;Taipei Songshan;121.552500;25.069722;210;TW;Taiwan;11;Eastern Asia;3; Asia
+659;TSJ;Tsushima;129.330556;34.285000;104;JP;Japan;11;Eastern Asia;3; Asia
+660;TSN;Tianjin;117.346111;39.124444;45;CN;China;11;Eastern Asia;3; Asia
+661;TTJ;Tottori;134.166667;35.530000;104;JP;Japan;11;Eastern Asia;3; Asia
+662;TXN;Huangshan;118.257222;29.732778;45;CN;China;11;Eastern Asia;3; Asia
+663;TYN;Taiyuan;112.628333;37.746944;45;CN;China;11;Eastern Asia;3; Asia
+664;UBJ;Ube;131.278611;33.930000;104;JP;Japan;11;Eastern Asia;3; Asia
+665;UKB;Osaka Kobe Airport;135.223889;34.632778;104;JP;Japan;11;Eastern Asia;3; Asia
+666;ULN;Ulaanbaatar;106.766667;47.843056;136;MN;Mongolia;11;Eastern Asia;3; Asia
+667;URC;Urumqi;87.474167;43.907222;45;CN;China;11;Eastern Asia;3; Asia
+668;USN;Ulsan;129.351667;35.593611;112;KR;Korea Republic of;11;Eastern Asia;3; Asia
+669;UYN;Yulin;109.730556;38.270000;45;CN;China;11;Eastern Asia;3; Asia
+670;WEH;Weihai;122.228889;37.187222;45;CN;China;11;Eastern Asia;3; Asia
+671;WNZ;Wenzhou;120.852222;27.913056;45;CN;China;11;Eastern Asia;3; Asia
+672;WUA;Wuhai;106.799444;39.792500;45;CN;China;11;Eastern Asia;3; Asia
+673;WUH;Wuhan;114.208056;30.783889;45;CN;China;11;Eastern Asia;3; Asia
+674;WUS;Wuyishan;118.003056;27.706944;45;CN;China;11;Eastern Asia;3; Asia
+675;WUX;Wuxi;120.429444;31.494722;45;CN;China;11;Eastern Asia;3; Asia
+676;WXN;Wanzhou;108.427222;30.803889;45;CN;China;11;Eastern Asia;3; Asia
+677;XFN;Xiangyang;112.290833;32.150556;45;CN;China;11;Eastern Asia;3; Asia
+678;XIC;Xichang;102.184444;27.989167;45;CN;China;11;Eastern Asia;3; Asia
+679;XIL;Xilinhot;115.963333;43.915556;45;CN;China;11;Eastern Asia;3; Asia
+680;XIY;Xi'an Xianyang Apt;108.753889;34.447778;45;CN;China;11;Eastern Asia;3; Asia
+681;XMN;Xiamen;118.127778;24.544167;45;CN;China;11;Eastern Asia;3; Asia
+682;XNN;Xining;102.040278;36.528611;45;CN;China;11;Eastern Asia;3; Asia
+683;XUZ;Xuzhou;117.245833;34.229444;45;CN;China;11;Eastern Asia;3; Asia
+684;YBP;Yibin;104.545000;28.800278;45;CN;China;11;Eastern Asia;3; Asia
+685;YCU;Yuncheng;111.033611;35.116389;45;CN;China;11;Eastern Asia;3; Asia
+686;YGJ;Yonago;133.236389;35.492222;104;JP;Japan;11;Eastern Asia;3; Asia
+687;YIH;Yichang;111.479722;30.556944;45;CN;China;11;Eastern Asia;3; Asia
+688;YIN;Yining;81.328889;43.955278;45;CN;China;11;Eastern Asia;3; Asia
+689;YIW;Yiwu;120.032500;29.345000;45;CN;China;11;Eastern Asia;3; Asia
+690;YNJ;Yanji;129.451389;42.882778;45;CN;China;11;Eastern Asia;3; Asia
+691;YNT;Yantai;121.371667;37.401667;45;CN;China;11;Eastern Asia;3; Asia
+692;YNZ;Yancheng;120.203056;33.426111;45;CN;China;11;Eastern Asia;3; Asia
+693;YTY;Yangzhou;119.718889;32.563056;45;CN;China;11;Eastern Asia;3; Asia
+694;ZHA;Zhanjiang;110.358333;21.215278;45;CN;China;11;Eastern Asia;3; Asia
+695;ZUH;Zhuhai;113.376111;22.006667;45;CN;China;11;Eastern Asia;3; Asia
+696;AMD;Ahmedabad;72.634722;23.077222;97;IN;India;12;Southern Asia;3; Asia
+697;ATQ;Amritsar;74.797222;31.709722;97;IN;India;12;Southern Asia;3; Asia
+698;AWZ;Ahwaz;48.760278;31.337500;99;IR;Iran Islamic Republic of;12;Southern Asia;3; Asia
+699;AZD;Yazd;54.281944;31.901111;99;IR;Iran Islamic Republic of;12;Southern Asia;3; Asia
+700;BBI;Bhubaneshwar;85.817778;20.244444;97;IN;India;12;Southern Asia;3; Asia
+701;BDQ;Vadodara;73.226389;22.336111;97;IN;India;12;Southern Asia;3; Asia
+702;BHO;Bhopal;77.337500;23.287500;97;IN;India;12;Southern Asia;3; Asia
+703;BLR;Bengaluru;77.705556;13.198889;97;IN;India;12;Southern Asia;3; Asia
+704;BND;Bandar Abbas;56.377778;27.218611;99;IR;Iran Islamic Republic of;12;Southern Asia;3; Asia
+705;BOM;Mumbai;72.868056;19.088611;97;IN;India;12;Southern Asia;3; Asia
+706;BUZ;Bushehr;50.830278;28.949444;99;IR;Iran Islamic Republic of;12;Southern Asia;3; Asia
+707;CCJ;Kozhikode;75.955278;11.136944;97;IN;India;12;Southern Asia;3; Asia
+708;CCU;Kolkata;88.446667;22.654722;97;IN;India;12;Southern Asia;3; Asia
+709;CGP;Chittagong;91.813333;22.249722;19;BD;Bangladesh;12;Southern Asia;3; Asia
+710;CJB;Coimbatore;77.043333;11.030000;97;IN;India;12;Southern Asia;3; Asia
+711;CMB;Bandaranaike Intl;79.885278;7.180278;120;LK;Sri Lanka;12;Southern Asia;3; Asia
+712;COK;Kochi;76.401944;10.151944;97;IN;India;12;Southern Asia;3; Asia
+713;DAC;Dhaka;90.397778;23.843333;19;BD;Bangladesh;12;Southern Asia;3; Asia
+714;DEL;Delhi;77.103056;28.566389;97;IN;India;12;Southern Asia;3; Asia
+715;GAU;Guwahati;91.585833;26.106111;97;IN;India;12;Southern Asia;3; Asia
+716;GOI;Goa;73.831389;15.380833;97;IN;India;12;Southern Asia;3; Asia
+717;HEA;Herat;62.228333;34.210000;3;AF;Afghanistan;12;Southern Asia;3; Asia
+718;HYD;Hyderabad Rajiv Gandhi Intl Arpt;78.431389;17.231111;97;IN;India;12;Southern Asia;3; Asia
+719;IDR;Indore;75.801111;22.721667;97;IN;India;12;Southern Asia;3; Asia
+720;IFN;Esfahan;51.869722;32.751667;99;IR;Iran Islamic Republic of;12;Southern Asia;3; Asia
+721;IKA;Tehran Imam Khomeini International Apt;51.152222;35.416111;99;IR;Iran Islamic Republic of;12;Southern Asia;3; Asia
+722;IMF;Imphal;93.896667;24.760000;97;IN;India;12;Southern Asia;3; Asia
+723;ISB;Islamabad;73.099167;33.616667;167;PK;Pakistan;12;Southern Asia;3; Asia
+724;IXA;Agartala;91.240556;23.886944;97;IN;India;12;Southern Asia;3; Asia
+725;IXB;Bagdogra;88.328611;26.681111;97;IN;India;12;Southern Asia;3; Asia
+726;IXC;Chandigarh;76.788611;30.673333;97;IN;India;12;Southern Asia;3; Asia
+727;IXE;Mangalore;74.890000;12.961389;97;IN;India;12;Southern Asia;3; Asia
+728;IXJ;Jammu;74.837500;32.689167;97;IN;India;12;Southern Asia;3; Asia
+729;IXM;Madurai;78.050000;9.500000;97;IN;India;12;Southern Asia;3; Asia
+730;IXR;Ranchi;85.321667;23.314167;97;IN;India;12;Southern Asia;3; Asia
+731;IXU;Aurangabad;75.398056;19.862778;97;IN;India;12;Southern Asia;3; Asia
+732;IXZ;Port Blair;92.729722;11.641111;97;IN;India;12;Southern Asia;3; Asia
+733;JAI;Jaipur;75.812222;26.824167;97;IN;India;12;Southern Asia;3; Asia
+734;JDH;Jodhpur;73.048889;26.251111;97;IN;India;12;Southern Asia;3; Asia
+735;KBL;Kabul;69.212500;34.565833;3;AF;Afghanistan;12;Southern Asia;3; Asia
+736;KHI;Karachi;67.160833;24.906667;167;PK;Pakistan;12;Southern Asia;3; Asia
+737;KIH;Kish Island;53.979167;26.527500;99;IR;Iran Islamic Republic of;12;Southern Asia;3; Asia
+738;KSH;Kermanshah;47.156667;34.348056;99;IR;Iran Islamic Republic of;12;Southern Asia;3; Asia
+739;KTM;Kathmandu;85.359167;27.696667;157;NP;Nepal;12;Southern Asia;3; Asia
+740;LHE;Lahore;74.403611;31.521667;167;PK;Pakistan;12;Southern Asia;3; Asia
+741;LKO;Lucknow;80.889444;26.760556;97;IN;India;12;Southern Asia;3; Asia
+742;MAA;Chennai;80.180556;12.994444;97;IN;India;12;Southern Asia;3; Asia
+743;MHD;Mashhad;59.645000;36.234167;99;IR;Iran Islamic Republic of;12;Southern Asia;3; Asia
+744;MLE;Male;73.529167;4.191667;144;MV;Maldives;12;Southern Asia;3; Asia
+745;NAG;Nagpur;79.047222;21.092222;97;IN;India;12;Southern Asia;3; Asia
+746;OMH;Urumiyeh;45.063611;37.662222;99;IR;Iran Islamic Republic of;12;Southern Asia;3; Asia
+747;PAT;Patna;85.088056;25.591389;97;IN;India;12;Southern Asia;3; Asia
+748;PEW;Peshawar;71.514444;33.993889;167;PK;Pakistan;12;Southern Asia;3; Asia
+749;PNQ;Pune;73.919722;18.582222;97;IN;India;12;Southern Asia;3; Asia
+750;RAJ;Rajkot;70.779444;22.309167;97;IN;India;12;Southern Asia;3; Asia
+751;RPR;Raipur;81.738889;21.180278;97;IN;India;12;Southern Asia;3; Asia
+752;SKT;Sialkot;74.363889;32.535278;167;PK;Pakistan;12;Southern Asia;3; Asia
+753;SXR;Srinagar;74.774167;33.987222;97;IN;India;12;Southern Asia;3; Asia
+754;SYZ;Shiraz;52.588611;29.540278;99;IR;Iran Islamic Republic of;12;Southern Asia;3; Asia
+755;TBZ;Tabriz;46.235000;38.133889;99;IR;Iran Islamic Republic of;12;Southern Asia;3; Asia
+756;THR;Tehran Mehrabad International Airport;51.314722;35.688889;99;IR;Iran Islamic Republic of;12;Southern Asia;3; Asia
+757;TRV;Thiruvananthapuram;76.920000;8.482222;97;IN;India;12;Southern Asia;3; Asia
+758;TRZ;Tiruchchirappalli;78.709722;10.765278;97;IN;India;12;Southern Asia;3; Asia
+759;UDR;Udaipur;73.896111;24.617778;97;IN;India;12;Southern Asia;3; Asia
+760;VNS;Varanasi;82.859444;25.452222;97;IN;India;12;Southern Asia;3; Asia
+761;VTZ;Vishakhapatnam;83.224444;17.721111;97;IN;India;12;Southern Asia;3; Asia
+762;ZAH;Zahedan;60.903333;29.473333;99;IR;Iran Islamic Republic of;12;Southern Asia;3; Asia
+763;AMQ;Ambon;128.089167;-3.710278;94;ID;Indonesia;13;South-Eastern Asia;3; Asia
+764;AOR;Alor Setar;100.400833;6.194444;147;MY;Malaysia;13;South-Eastern Asia;3; Asia
+765;BCD;Bacolod;123.019167;10.776667;166;PH;Philippines;13;South-Eastern Asia;3; Asia
+766;BDJ;Banjarmasin;114.762500;-3.442222;94;ID;Indonesia;13;South-Eastern Asia;3; Asia
+767;BDO;Bandung;107.576389;-6.900556;94;ID;Indonesia;13;South-Eastern Asia;3; Asia
+768;BEJ;Tanjung Redeb;117.432778;2.155278;94;ID;Indonesia;13;South-Eastern Asia;3; Asia
+769;BKI;Kota Kinabalu;116.053056;5.937222;147;MY;Malaysia;13;South-Eastern Asia;3; Asia
+770;BKK;Bangkok Suvarnabhumi International Apt;100.748889;13.685833;201;TH;Thailand;13;South-Eastern Asia;3; Asia
+771;BKS;Bengkulu;102.339167;-3.863611;94;ID;Indonesia;13;South-Eastern Asia;3; Asia
+772;BMV;Ban Me Thuot;108.120278;12.668333;222;VN;Viet Nam;13;South-Eastern Asia;3; Asia
+773;BPN;Balikpapan;116.894444;-1.268333;94;ID;Indonesia;13;South-Eastern Asia;3; Asia
+774;BTH;Batam;104.118889;1.121111;94;ID;Indonesia;13;South-Eastern Asia;3; Asia
+775;BTJ;Banda Aceh;95.420278;5.523611;94;ID;Indonesia;13;South-Eastern Asia;3; Asia
+776;BTU;Bintulu;113.019722;3.124167;147;MY;Malaysia;13;South-Eastern Asia;3; Asia
+777;BWN;Bandar Seri Begawan;114.928333;4.944167;27;BN;Brunei Darussalam;13;South-Eastern Asia;3; Asia
+778;BXU;Butuan;125.481389;8.950556;166;PH;Philippines;13;South-Eastern Asia;3; Asia
+779;CEB;Cebu;123.979444;10.307500;166;PH;Philippines;13;South-Eastern Asia;3; Asia
+780;CEI;Chiang Rai;99.883056;19.952222;201;TH;Thailand;13;South-Eastern Asia;3; Asia
+781;CGK;Jakarta Soekarno-Hatta Apt;106.655833;-6.125556;94;ID;Indonesia;13;South-Eastern Asia;3; Asia
+782;CGY;Cagayan de Oro;124.456944;8.612500;166;PH;Philippines;13;South-Eastern Asia;3; Asia
+783;CNX;Chiang Mai;98.962778;18.771389;201;TH;Thailand;13;South-Eastern Asia;3; Asia
+784;CRK;Angeles/Mabalacat;120.560278;15.186111;166;PH;Philippines;13;South-Eastern Asia;3; Asia
+785;CXR;Nha Trang Cam Ranh Airport;109.219167;11.998056;222;VN;Viet Nam;13;South-Eastern Asia;3; Asia
+786;DAD;Da Nang;108.199444;16.043889;222;VN;Viet Nam;13;South-Eastern Asia;3; Asia
+787;DGT;Dumaguete;123.300000;9.334444;166;PH;Philippines;13;South-Eastern Asia;3; Asia
+788;DJB;Jambi;103.644444;-1.638056;94;ID;Indonesia;13;South-Eastern Asia;3; Asia
+789;DJJ;Jayapura;140.516389;-2.576944;94;ID;Indonesia;13;South-Eastern Asia;3; Asia
+790;DLI;Dalat;108.366667;11.750000;222;VN;Viet Nam;13;South-Eastern Asia;3; Asia
+791;DMK;Bangkok Don Mueang International Arpt;100.606667;13.912500;201;TH;Thailand;13;South-Eastern Asia;3; Asia
+792;DPS;Denpasar-Bali;115.167222;-8.748056;94;ID;Indonesia;13;South-Eastern Asia;3; Asia
+793;DVO;Davao;125.645556;7.125278;166;PH;Philippines;13;South-Eastern Asia;3; Asia
+794;GES;General Santos;125.235278;6.106389;166;PH;Philippines;13;South-Eastern Asia;3; Asia
+795;GTO;Gorontalo;122.851389;0.637222;94;ID;Indonesia;13;South-Eastern Asia;3; Asia
+796;HAN;Hanoi;105.807222;21.221111;222;VN;Viet Nam;13;South-Eastern Asia;3; Asia
+797;HDY;Hat Yai;100.395000;6.932778;201;TH;Thailand;13;South-Eastern Asia;3; Asia
+798;HEH;Heho;96.791944;20.746944;135;MM;Myanmar;13;South-Eastern Asia;3; Asia
+799;HKT;Phuket;98.305278;8.112222;201;TH;Thailand;13;South-Eastern Asia;3; Asia
+800;HLP;Jakarta Halim Perdanakusuma Apt;106.891111;-6.266667;94;ID;Indonesia;13;South-Eastern Asia;3; Asia
+801;HPH;Haiphong;106.725000;20.819444;222;VN;Viet Nam;13;South-Eastern Asia;3; Asia
+802;HUI;Hue;107.703056;16.400833;222;VN;Viet Nam;13;South-Eastern Asia;3; Asia
+803;ILO;Ilo-Ilo;122.545278;10.713056;166;PH;Philippines;13;South-Eastern Asia;3; Asia
+804;JHB;Johor Bahru;103.670278;1.638889;147;MY;Malaysia;13;South-Eastern Asia;3; Asia
+805;JOG;Yogyakarta;110.431667;-7.788056;94;ID;Indonesia;13;South-Eastern Asia;3; Asia
+806;KBR;Kota Bharu;102.291111;6.167500;147;MY;Malaysia;13;South-Eastern Asia;3; Asia
+807;KBV;Krabi;98.988889;8.095833;201;TH;Thailand;13;South-Eastern Asia;3; Asia
+808;KCH;Kuching;110.343889;1.484167;147;MY;Malaysia;13;South-Eastern Asia;3; Asia
+809;KDI;Kendari;122.418333;-4.081667;94;ID;Indonesia;13;South-Eastern Asia;3; Asia
+810;KKC;Khon Kaen;102.782222;16.464444;201;TH;Thailand;13;South-Eastern Asia;3; Asia
+811;KLO;Kalibo;122.381111;11.684444;166;PH;Philippines;13;South-Eastern Asia;3; Asia
+812;KNO;Medan Kuala Namu;98.674167;3.560278;94;ID;Indonesia;13;South-Eastern Asia;3; Asia
+813;KOE;Kupang;123.671111;-10.171667;94;ID;Indonesia;13;South-Eastern Asia;3; Asia
+814;KTG;Ketapang;109.963611;-1.816667;94;ID;Indonesia;13;South-Eastern Asia;3; Asia
+815;KUA;Kuantan;103.209444;3.780833;147;MY;Malaysia;13;South-Eastern Asia;3; Asia
+816;KUL;Kuala Lumpur International Airport;101.714722;2.745556;147;MY;Malaysia;13;South-Eastern Asia;3; Asia
+817;LAO;Laoag;120.531389;18.178056;166;PH;Philippines;13;South-Eastern Asia;3; Asia
+818;LBU;Labuan;115.252500;5.297222;147;MY;Malaysia;13;South-Eastern Asia;3; Asia
+819;LGK;Langkawi;99.732222;6.338611;147;MY;Malaysia;13;South-Eastern Asia;3; Asia
+820;LGP;Legaspi;123.734444;13.157222;166;PH;Philippines;13;South-Eastern Asia;3; Asia
+821;LOP;Praya;116.276667;-8.757222;94;ID;Indonesia;13;South-Eastern Asia;3; Asia
+822;LPQ;Luang Prabang;102.160833;19.897778;116;LA;Lao People's Democratic Republic;13;South-Eastern Asia;3; Asia
+823;MDC;Manado;124.926389;1.549167;94;ID;Indonesia;13;South-Eastern Asia;3; Asia
+824;MDL;Mandalay;95.978056;21.702222;135;MM;Myanmar;13;South-Eastern Asia;3; Asia
+825;MES;Medan Polonia;98.671667;3.558056;94;ID;Indonesia;13;South-Eastern Asia;3; Asia
+826;MLG;Malang;112.714444;-7.926667;94;ID;Indonesia;13;South-Eastern Asia;3; Asia
+827;MNL;Manila Ninoy Aquino International Apt;121.019444;14.508611;166;PH;Philippines;13;South-Eastern Asia;3; Asia
+828;MPH;Caticlan;121.954167;11.924444;166;PH;Philippines;13;South-Eastern Asia;3; Asia
+829;MYY;Miri;113.988333;4.325278;147;MY;Malaysia;13;South-Eastern Asia;3; Asia
+830;NHA;Nha Trang Airport;109.192222;12.227500;222;VN;Viet Nam;13;South-Eastern Asia;3; Asia
+831;NST;Nakhon Si Thammarat;99.944722;8.539722;201;TH;Thailand;13;South-Eastern Asia;3; Asia
+832;NYU;Bagan/Nyaung-U;94.930556;21.177500;135;MM;Myanmar;13;South-Eastern Asia;3; Asia
+833;PDG;Padang;100.351944;-0.875000;94;ID;Indonesia;13;South-Eastern Asia;3; Asia
+834;PEN;Penang;100.276667;5.297222;147;MY;Malaysia;13;South-Eastern Asia;3; Asia
+835;PGK;Pangkalpinang;106.139167;-2.163611;94;ID;Indonesia;13;South-Eastern Asia;3; Asia
+836;PKN;Pangkalanbun;111.673333;-2.705278;94;ID;Indonesia;13;South-Eastern Asia;3; Asia
+837;PKU;Pekanbaru;101.444444;0.460833;94;ID;Indonesia;13;South-Eastern Asia;3; Asia
+838;PKY;Palangkaraya;113.942778;-2.225000;94;ID;Indonesia;13;South-Eastern Asia;3; Asia
+839;PLM;Palembang;104.700000;-2.898333;94;ID;Indonesia;13;South-Eastern Asia;3; Asia
+840;PLW;Palu;119.909722;-0.918611;94;ID;Indonesia;13;South-Eastern Asia;3; Asia
+841;PNH;Phnom Penh;104.844167;11.546667;107;KH;Cambodia;13;South-Eastern Asia;3; Asia
+842;PNK;Pontianak;109.403889;-0.150833;94;ID;Indonesia;13;South-Eastern Asia;3; Asia
+843;PPS;Puerto Princesa;118.758611;9.742222;166;PH;Philippines;13;South-Eastern Asia;3; Asia
+844;PQC;Phuquoc;103.967222;10.226944;222;VN;Viet Nam;13;South-Eastern Asia;3; Asia
+845;REP;Siem Reap;103.812778;13.410556;107;KH;Cambodia;13;South-Eastern Asia;3; Asia
+846;RGN;Yangon;96.133333;16.907222;135;MM;Myanmar;13;South-Eastern Asia;3; Asia
+847;SBW;Sibu;111.982500;2.264167;147;MY;Malaysia;13;South-Eastern Asia;3; Asia
+848;SDK;Sandakan;118.061111;5.901389;147;MY;Malaysia;13;South-Eastern Asia;3; Asia
+849;SGN;Ho Chi Minh City;106.651944;10.818889;222;VN;Viet Nam;13;South-Eastern Asia;3; Asia
+850;SIN;Singapore Changi Apt;103.989444;1.359167;185;SG;Singapore;13;South-Eastern Asia;3; Asia
+851;SOC;Surakarta (Solo);110.756944;-7.516111;94;ID;Indonesia;13;South-Eastern Asia;3; Asia
+852;SRG;Semarang;110.374167;-6.971389;94;ID;Indonesia;13;South-Eastern Asia;3; Asia
+853;SUB;Surabaya;112.786944;-7.379722;94;ID;Indonesia;13;South-Eastern Asia;3; Asia
+854;SZB;Kuala Lumpur Sultan Abdul Aziz Shah Apt;101.554444;3.121667;147;MY;Malaysia;13;South-Eastern Asia;3; Asia
+855;TAC;Tacloban;125.027778;11.227500;166;PH;Philippines;13;South-Eastern Asia;3; Asia
+856;TAG;Tagbilaran;123.854167;9.660278;166;PH;Philippines;13;South-Eastern Asia;3; Asia
+857;TGG;Kuala Terengganu;103.104722;5.381389;147;MY;Malaysia;13;South-Eastern Asia;3; Asia
+858;TJQ;Tanjung Pandan;107.755000;-2.745833;94;ID;Indonesia;13;South-Eastern Asia;3; Asia
+859;TKG;Bandar Lampung;105.178889;-5.242222;94;ID;Indonesia;13;South-Eastern Asia;3; Asia
+860;TRK;Tarakan;117.566667;3.326667;94;ID;Indonesia;13;South-Eastern Asia;3; Asia
+861;TST;Trang;99.615833;7.508611;201;TH;Thailand;13;South-Eastern Asia;3; Asia
+862;TTE;Ternate;127.381389;0.831389;94;ID;Indonesia;13;South-Eastern Asia;3; Asia
+863;TWU;Tawau;118.121944;4.313333;147;MY;Malaysia;13;South-Eastern Asia;3; Asia
+864;UBP;Ubon Ratchathani;104.870278;15.251389;201;TH;Thailand;13;South-Eastern Asia;3; Asia
+865;UPG;Makassar;119.554167;-5.061667;94;ID;Indonesia;13;South-Eastern Asia;3; Asia
+866;URT;Surat Thani;99.139167;9.136111;201;TH;Thailand;13;South-Eastern Asia;3; Asia
+867;USM;Ko Samui;100.062500;9.550278;201;TH;Thailand;13;South-Eastern Asia;3; Asia
+868;UTH;Udon Thani;102.788333;17.386389;201;TH;Thailand;13;South-Eastern Asia;3; Asia
+869;VII;Vinh City;105.670833;18.737500;222;VN;Viet Nam;13;South-Eastern Asia;3; Asia
+870;VTE;Vientiane;102.563333;17.988333;116;LA;Lao People's Democratic Republic;13;South-Eastern Asia;3; Asia
+871;ZAM;Zamboanga;122.059722;6.922500;166;PH;Philippines;13;South-Eastern Asia;3; Asia
+872;ADA;Adana;35.280278;36.982222;207;TR;Turkey;14;Western Asia;3; Asia
+873;ADB;Izmir Adnan Menderes Apt;27.156944;38.292500;207;TR;Turkey;14;Western Asia;3; Asia
+874;ADE;Aden;45.028889;12.829444;226;YE;Yemen;14;Western Asia;3; Asia
+875;AHB;Abha;42.656667;18.240278;180;SA;Saudi Arabia;14;Western Asia;3; Asia
+876;AMM;Amman Queen Alia International Apt;35.993333;31.722500;103;JO;Jordan;14;Western Asia;3; Asia
+877;ASR;Kayseri;35.495556;38.770278;207;TR;Turkey;14;Western Asia;3; Asia
+878;AUH;Abu Dhabi International Apt;54.651111;24.433056;2;AE;United Arab Emirates;14;Western Asia;3; Asia
+879;AYT;Antalya;30.800556;36.898611;207;TR;Turkey;14;Western Asia;3; Asia
+880;BAH;Bahrain;50.633611;26.270833;23;BH;Bahrain;14;Western Asia;3; Asia
+881;BAL;Batman;41.116667;37.928889;207;TR;Turkey;14;Western Asia;3; Asia
+882;BEY;Beirut;35.488333;33.820833;117;LB;Lebanon;14;Western Asia;3; Asia
+883;BGW;Baghdad;44.234444;33.262500;98;IQ;Iraq;14;Western Asia;3; Asia
+884;BHH;Bisha;42.620833;19.984444;180;SA;Saudi Arabia;14;Western Asia;3; Asia
+885;BJV;Bodrum Milas Airport;27.664444;37.250556;207;TR;Turkey;14;Western Asia;3; Asia
+886;BSR;Basrah;47.662222;30.549167;98;IQ;Iraq;14;Western Asia;3; Asia
+887;DAM;Damascus;36.514167;33.410556;196;SY;Syrian Arab Republic;14;Western Asia;3; Asia
+888;DIY;Diyarbakir;40.201111;37.893889;207;TR;Turkey;14;Western Asia;3; Asia
+889;DLM;Dalaman;28.792500;36.713056;207;TR;Turkey;14;Western Asia;3; Asia
+890;DMM;Dammam;49.797778;26.471111;180;SA;Saudi Arabia;14;Western Asia;3; Asia
+891;DOH;Doha;51.608333;25.274444;174;QA;Qatar;14;Western Asia;3; Asia
+892;DXB;Dubai International;55.364444;25.252778;2;AE;United Arab Emirates;14;Western Asia;3; Asia
+893;EAM;Nejran;44.419167;17.611389;180;SA;Saudi Arabia;14;Western Asia;3; Asia
+894;EBL;Erbil;43.963056;36.237778;98;IQ;Iraq;14;Western Asia;3; Asia
+895;ECN;Ercan;33.488333;35.159722;52;CY;Cyprus;14;Western Asia;3; Asia
+896;ELQ;Gassim;43.773889;26.302778;180;SA;Saudi Arabia;14;Western Asia;3; Asia
+897;ERZ;Erzurum;41.170278;39.956389;207;TR;Turkey;14;Western Asia;3; Asia
+898;ESB;Ankara Esenboga Apt;32.995000;40.128056;207;TR;Turkey;14;Western Asia;3; Asia
+899;ETH;Eilat;34.958889;29.558333;96;IL;Israel;14;Western Asia;3; Asia
+900;EVN;Yerevan;44.395833;40.147222;7;AM;Armenia;14;Western Asia;3; Asia
+901;EZS;Elazig;39.291389;38.606944;207;TR;Turkey;14;Western Asia;3; Asia
+902;GIZ;Jazan;42.585833;16.901111;180;SA;Saudi Arabia;14;Western Asia;3; Asia
+903;GNY;Sanliurfa;38.846944;37.094444;207;TR;Turkey;14;Western Asia;3; Asia
+904;GYD;Baku Heydar Aliyev International Apt;50.046667;40.467500;16;AZ;Azerbaijan;14;Western Asia;3; Asia
+905;GZT;Gaziantep;37.478611;36.947222;207;TR;Turkey;14;Western Asia;3; Asia
+906;HAS;Hail;41.686389;27.438056;180;SA;Saudi Arabia;14;Western Asia;3; Asia
+907;HTY;Hatay;36.284722;36.359722;207;TR;Turkey;14;Western Asia;3; Asia
+908;IST;Istanbul Ataturk Airport;28.814722;40.976944;207;TR;Turkey;14;Western Asia;3; Asia
+909;ISU;Sulaymaniyah;45.315833;35.562500;98;IQ;Iraq;14;Western Asia;3; Asia
+910;JED;Jeddah;39.156667;21.679444;180;SA;Saudi Arabia;14;Western Asia;3; Asia
+911;KSY;Kars;43.115000;40.562222;207;TR;Turkey;14;Western Asia;3; Asia
+912;KWI;Kuwait;47.968889;29.226667;113;KW;Kuwait;14;Western Asia;3; Asia
+913;KYA;Konya;32.561944;37.978889;207;TR;Turkey;14;Western Asia;3; Asia
+914;LCA;Larnaca;33.624722;34.875000;52;CY;Cyprus;14;Western Asia;3; Asia
+915;MCT;Muscat;58.281667;23.592778;161;OM;Oman;14;Western Asia;3; Asia
+916;MED;Madinah;39.705000;24.553333;180;SA;Saudi Arabia;14;Western Asia;3; Asia
+917;MLX;Malatya;38.091111;38.435278;207;TR;Turkey;14;Western Asia;3; Asia
+918;MQM;Mardin;40.631667;37.223333;207;TR;Turkey;14;Western Asia;3; Asia
+919;NJF;Al Najaf;44.404167;31.989722;98;IQ;Iraq;14;Western Asia;3; Asia
+920;PFO;Paphos;32.485833;34.718056;52;CY;Cyprus;14;Western Asia;3; Asia
+921;RKT;Ras al Khaimah;55.938889;25.613611;2;AE;United Arab Emirates;14;Western Asia;3; Asia
+922;RUH;Riyadh;46.698889;24.957778;180;SA;Saudi Arabia;14;Western Asia;3; Asia
+923;SAH;Sanaa;44.219722;15.476389;226;YE;Yemen;14;Western Asia;3; Asia
+924;SAW;Istanbul Sabiha Gokcen Apt;29.309167;40.898611;207;TR;Turkey;14;Western Asia;3; Asia
+925;SHJ;Sharjah;55.517222;25.328611;2;AE;United Arab Emirates;14;Western Asia;3; Asia
+926;SLL;Salalah;54.091389;17.038611;161;OM;Oman;14;Western Asia;3; Asia
+927;SZF;Carsamba;36.567222;41.254444;207;TR;Turkey;14;Western Asia;3; Asia
+928;TBS;Tbilisi;44.954722;41.669167;75;GE;Georgia;14;Western Asia;3; Asia
+929;TIF;Taif;40.544444;21.483333;180;SA;Saudi Arabia;14;Western Asia;3; Asia
+930;TLV;Baruchs Napping Sofa Intl. Apt;34.880556;32.007222;96;IL;Israel;14;Western Asia;3; Asia
+931;TUU;Tabuk;36.618889;28.365556;180;SA;Saudi Arabia;14;Western Asia;3; Asia
+932;TZX;Trabzon;39.789722;40.995000;207;TR;Turkey;14;Western Asia;3; Asia
+933;VAN;Van;43.332222;38.468333;207;TR;Turkey;14;Western Asia;3; Asia
+934;VAS;Sivas;36.903611;39.813889;207;TR;Turkey;14;Western Asia;3; Asia
+935;YNB;Yanbu al Bahr;38.063333;24.144167;180;SA;Saudi Arabia;14;Western Asia;3; Asia
+936;AAQ;Anapa;37.347222;45.002222;178;RU;Russian Federation;15;Eastern Europe;4; Europe
+937;AER;Sochi;39.956667;43.450000;178;RU;Russian Federation;15;Eastern Europe;4; Europe
+938;ARH;Arkhangelsk;40.716667;64.600278;178;RU;Russian Federation;15;Eastern Europe;4; Europe
+939;ASF;Astrakhan;48.006389;46.283333;178;RU;Russian Federation;15;Eastern Europe;4; Europe
+940;BCM;Bacau;26.910278;46.521944;176;RO;Romania;15;Eastern Europe;4; Europe
+941;BOJ;Burgas;27.515278;42.569722;22;BG;Bulgaria;15;Eastern Europe;4; Europe
+942;BRQ;Brno;16.694444;49.151389;53;CZ;Czech Republic;15;Eastern Europe;4; Europe
+943;BTS;Bratislava;17.212778;48.170278;188;SK;Slovakia;15;Eastern Europe;4; Europe
+944;BUD;Budapest;19.255556;47.436944;93;HU;Hungary;15;Eastern Europe;4; Europe
+945;CEK;Chelyabinsk;61.503333;55.305833;178;RU;Russian Federation;15;Eastern Europe;4; Europe
+946;CLJ;Cluj-Napoca;23.686111;46.785278;176;RO;Romania;15;Eastern Europe;4; Europe
+947;DME;Moscow Domodedovo Apt;37.540000;55.240000;178;RU;Russian Federation;15;Eastern Europe;4; Europe
+948;DNK;Dnipropetrovsk;35.100556;48.357222;212;UA;Ukraine;15;Eastern Europe;4; Europe
+949;DOK;Donetsk;37.739722;48.073611;212;UA;Ukraine;15;Eastern Europe;4; Europe
+950;GDN;Gdansk;18.466111;54.377500;168;PL;Poland;15;Eastern Europe;4; Europe
+951;GDX;Magadan;150.720556;59.911111;178;RU;Russian Federation;15;Eastern Europe;4; Europe
+952;GOJ;Nizhny Novgorod;43.784167;56.230000;178;RU;Russian Federation;15;Eastern Europe;4; Europe
+953;KRK;Krakow;19.784722;50.077778;168;PL;Poland;15;Eastern Europe;4; Europe
+954;HRK;Kharkiv;36.283611;49.926111;212;UA;Ukraine;15;Eastern Europe;4; Europe
+955;IEV;Kiev Zhuliany Intl Apt;30.449722;50.401667;212;UA;Ukraine;15;Eastern Europe;4; Europe
+956;IKT;Irkutsk;104.388889;52.268056;178;RU;Russian Federation;15;Eastern Europe;4; Europe
+957;KBP;Kiev Borispol Intl Apt;30.894722;50.345000;212;UA;Ukraine;15;Eastern Europe;4; Europe
+958;KGD;Kaliningrad;20.592500;54.890000;178;RU;Russian Federation;15;Eastern Europe;4; Europe
+959;KHV;Khabarovsk;135.188333;48.528056;178;RU;Russian Federation;15;Eastern Europe;4; Europe
+960;KIV;Chisinau;28.930833;46.927778;129;MD;Moldova Republic of;15;Eastern Europe;4; Europe
+961;KJA;Krasnoyarsk;92.493333;56.173056;178;RU;Russian Federation;15;Eastern Europe;4; Europe
+962;KRR;Krasnodar;39.166389;45.032500;178;RU;Russian Federation;15;Eastern Europe;4; Europe
+963;KTW;Katowice;19.080000;50.474167;168;PL;Poland;15;Eastern Europe;4; Europe
+964;KUF;Samara;50.151667;53.503889;178;RU;Russian Federation;15;Eastern Europe;4; Europe
+965;KZN;Kazan;49.278611;55.606111;178;RU;Russian Federation;15;Eastern Europe;4; Europe
+966;LCJ;Lodz;19.398056;51.721944;168;PL;Poland;15;Eastern Europe;4; Europe
+967;LED;St Petersburg Pulkovo Apt;30.262500;59.800278;178;RU;Russian Federation;15;Eastern Europe;4; Europe
+968;LWO;Lviv;23.956111;49.812500;212;UA;Ukraine;15;Eastern Europe;4; Europe
+969;MMK;Murmansk;32.750833;68.781667;178;RU;Russian Federation;15;Eastern Europe;4; Europe
+970;MRV;Mineralnye Vody;43.081944;44.225000;178;RU;Russian Federation;15;Eastern Europe;4; Europe
+971;MSQ;Minsk International Apt;28.030833;53.882500;33;BY;Belarus;15;Eastern Europe;4; Europe
+972;NJC;Nizhnevartovsk;76.483611;60.949167;178;RU;Russian Federation;15;Eastern Europe;4; Europe
+973;NSK;Norilsk;87.332222;69.311111;178;RU;Russian Federation;15;Eastern Europe;4; Europe
+974;NUX;Novy Urengoy;76.520556;66.070278;178;RU;Russian Federation;15;Eastern Europe;4; Europe
+975;ODS;Odesa;30.676389;46.426667;212;UA;Ukraine;15;Eastern Europe;4; Europe
+976;OMS;Omsk;73.310556;54.966944;178;RU;Russian Federation;15;Eastern Europe;4; Europe
+977;OTP;Bucharest Henri Coanda Apt;26.102222;44.572222;176;RO;Romania;15;Eastern Europe;4; Europe
+978;OVB;Novosibirsk;82.650556;55.012500;178;RU;Russian Federation;15;Eastern Europe;4; Europe
+979;PEE;Perm;56.021111;57.914444;178;RU;Russian Federation;15;Eastern Europe;4; Europe
+980;PKC;Petropavlovsk;158.450833;53.169444;178;RU;Russian Federation;15;Eastern Europe;4; Europe
+981;POZ;Poznan;16.826389;52.421111;168;PL;Poland;15;Eastern Europe;4; Europe
+982;PRG;Prague Ruzyne;14.260000;50.100833;53;CZ;Czech Republic;15;Eastern Europe;4; Europe
+983;REN;Orenburg;55.456667;51.795833;178;RU;Russian Federation;15;Eastern Europe;4; Europe
+984;ROV;Rostov;39.818056;47.258333;178;RU;Russian Federation;15;Eastern Europe;4; Europe
+985;RTW;Saratov;46.046667;51.565000;178;RU;Russian Federation;15;Eastern Europe;4; Europe
+986;RZE;Rzeszow;22.018889;50.110000;168;PL;Poland;15;Eastern Europe;4; Europe
+987;SBZ;Sibiu;24.091389;45.785556;176;RO;Romania;15;Eastern Europe;4; Europe
+988;SGC;Surgut;73.401944;61.343611;178;RU;Russian Federation;15;Eastern Europe;4; Europe
+989;SIP;Simferopol;33.973889;45.052222;212;UA;Ukraine;15;Eastern Europe;4; Europe
+990;SLY;Salekhard;66.611111;66.590833;178;RU;Russian Federation;15;Eastern Europe;4; Europe
+991;SOF;Sofia;23.406111;42.695278;22;BG;Bulgaria;15;Eastern Europe;4; Europe
+992;SVO;Moscow Sheremetyevo International Apt;37.414722;55.972778;178;RU;Russian Federation;15;Eastern Europe;4; Europe
+993;SVX;Yekaterinburg;60.802778;56.743056;178;RU;Russian Federation;15;Eastern Europe;4; Europe
+994;SZZ;Szczecin;14.902222;53.584722;168;PL;Poland;15;Eastern Europe;4; Europe
+995;TGM;Tirgu Mures;24.412500;46.467778;176;RO;Romania;15;Eastern Europe;4; Europe
+996;TJM;Tyumen;65.324167;57.189444;178;RU;Russian Federation;15;Eastern Europe;4; Europe
+997;TOF;Tomsk;85.213333;56.385833;178;RU;Russian Federation;15;Eastern Europe;4; Europe
+998;TSR;Timisoara;21.337778;45.810000;176;RO;Romania;15;Eastern Europe;4; Europe
+999;UFA;Ufa;55.883889;54.557500;178;RU;Russian Federation;15;Eastern Europe;4; Europe
+1000;UUS;Yuzhno-Sakhalinsk;142.717500;46.888611;178;RU;Russian Federation;15;Eastern Europe;4; Europe
+1001;VAR;Varna;27.825000;43.231944;22;BG;Bulgaria;15;Eastern Europe;4; Europe
+1002;VKO;Moscow Vnukovo International Apt;37.261389;55.591667;178;RU;Russian Federation;15;Eastern Europe;4; Europe
+1003;VOG;Volgograd;44.345556;48.782500;178;RU;Russian Federation;15;Eastern Europe;4; Europe
+1004;VOZ;Voronezh;39.229722;51.814167;178;RU;Russian Federation;15;Eastern Europe;4; Europe
+1005;VVO;Vladivostok;132.148056;43.398889;178;RU;Russian Federation;15;Eastern Europe;4; Europe
+1006;WAW;Warsaw;20.967222;52.165833;168;PL;Poland;15;Eastern Europe;4; Europe
+1007;WMI;Nowy Dwor Mazowiecki;20.651667;52.451111;168;PL;Poland;15;Eastern Europe;4; Europe
+1008;WRO;Wroclaw;16.885833;51.102778;168;PL;Poland;15;Eastern Europe;4; Europe
+1009;YKS;Yakutsk;129.770556;62.093333;178;RU;Russian Federation;15;Eastern Europe;4; Europe
+1010;AAL;Aalborg Airport;9.849167;57.092778;56;DK;Denmark;16;Northern Europe;4; Europe
+1011;AAR;Aarhus Tirstrup Airport;10.619444;56.303889;56;DK;Denmark;16;Northern Europe;4; Europe
+1012;AES;Alesund;6.110278;62.560278;156;NO;Norway;16;Northern Europe;4; Europe
+1013;AGH;Angelholm/Helsingborg Angelholm Apt;12.847222;56.296111;184;SE;Sweden;16;Northern Europe;4; Europe
+1014;ALF;Alta;23.371667;69.976111;156;NO;Norway;16;Northern Europe;4; Europe
+1015;ARN;Stockholm Arlanda Apt;17.918611;59.651944;184;SE;Sweden;16;Northern Europe;4; Europe
+1016;BGO;Bergen;5.218056;60.293333;156;NO;Norway;16;Northern Europe;4; Europe
+1017;BLL;Billund;9.151667;55.740278;56;DK;Denmark;16;Northern Europe;4; Europe
+1018;BMA;Stockholm Bromma Apt;17.941667;59.354444;184;SE;Sweden;16;Northern Europe;4; Europe
+1019;BOO;Bodo;14.365278;67.269167;156;NO;Norway;16;Northern Europe;4; Europe
+1020;CPH;Copenhagen Kastrup Apt;12.650278;55.620278;56;DK;Denmark;16;Northern Europe;4; Europe
+1021;DUB;Dublin;-6.270000;53.421389;95;IE;Ireland Republic of;16;Northern Europe;4; Europe
+1022;EVE;Harstad-Narvik;16.678056;68.491389;156;NO;Norway;16;Northern Europe;4; Europe
+1023;GOT;Goteborg Landvetter Apt;12.279722;57.662778;184;SE;Sweden;16;Northern Europe;4; Europe
+1024;GSE;Goteborg City Apt;11.870278;57.774722;184;SE;Sweden;16;Northern Europe;4; Europe
+1025;HAU;Haugesund;5.208333;59.345278;156;NO;Norway;16;Northern Europe;4; Europe
+1026;HEL;Helsinki-Vantaa;24.963333;60.317222;66;FI;Finland;16;Northern Europe;4; Europe
+1027;KEF;Reykjavik Keflavik International Apt;-22.605556;63.985000;100;IS;Iceland;16;Northern Europe;4; Europe
+1028;KIR;Kerry;-9.523889;52.180833;95;IE;Ireland Republic of;16;Northern Europe;4; Europe
+1029;KRS;Kristiansand Kjevik Airport;8.085278;58.204167;156;NO;Norway;16;Northern Europe;4; Europe
+1030;KSU;Kristiansund;7.824444;63.111667;156;NO;Norway;16;Northern Europe;4; Europe
+1031;KUN;Kaunas;24.084722;54.963889;123;LT;Lithuania;16;Northern Europe;4; Europe
+1032;KUO;Kuopio;27.797778;63.007222;66;FI;Finland;16;Northern Europe;4; Europe
+1033;LLA;Lulea;22.121944;65.543889;184;SE;Sweden;16;Northern Europe;4; Europe
+1034;MMX;Malmo Airport;13.375000;55.542500;184;SE;Sweden;16;Northern Europe;4; Europe
+1035;MOL;Molde;7.262500;62.744722;156;NO;Norway;16;Northern Europe;4; Europe
+1036;NOC;Knock;-8.818611;53.910278;95;IE;Ireland Republic of;16;Northern Europe;4; Europe
+1037;NYO;Stockholm Skavsta Airport;16.912222;58.788611;184;SE;Sweden;16;Northern Europe;4; Europe
+1038;ORK;Cork;-8.491111;51.841389;95;IE;Ireland Republic of;16;Northern Europe;4; Europe
+1039;OSD;Are/Ostersund;14.500278;63.194444;184;SE;Sweden;16;Northern Europe;4; Europe
+1040;OSL;Oslo Gardermoen Airport;11.100278;60.193889;156;NO;Norway;16;Northern Europe;4; Europe
+1041;OUL;Oulu;25.354444;64.930000;66;FI;Finland;16;Northern Europe;4; Europe
+1042;RIX;Riga;23.971111;56.923611;125;LV;Latvia;16;Northern Europe;4; Europe
+1043;RVN;Rovaniemi;25.830278;66.564722;66;FI;Finland;16;Northern Europe;4; Europe
+1044;RYG;Oslo Moss-Rygge Airport;10.785556;59.378889;156;NO;Norway;16;Northern Europe;4; Europe
+1045;SDL;Sundsvall/Harnosand;17.443889;62.528056;184;SE;Sweden;16;Northern Europe;4; Europe
+1046;SFT;Skelleftea;21.076944;64.624722;184;SE;Sweden;16;Northern Europe;4; Europe
+1047;SNN;Shannon;-8.924722;52.701944;95;IE;Ireland Republic of;16;Northern Europe;4; Europe
+1048;SVG;Stavanger;5.637778;58.876667;156;NO;Norway;16;Northern Europe;4; Europe
+1049;TKU;Turku;22.262778;60.514167;66;FI;Finland;16;Northern Europe;4; Europe
+1050;TLL;Tallinn;24.832500;59.413333;61;EE;Estonia;16;Northern Europe;4; Europe
+1051;TMP;Tampere;23.604444;61.414167;66;FI;Finland;16;Northern Europe;4; Europe
+1052;TOS;Tromso;18.918889;69.683333;156;NO;Norway;16;Northern Europe;4; Europe
+1053;TRD;Trondheim Vaernes Airport;10.924167;63.457500;156;NO;Norway;16;Northern Europe;4; Europe
+1054;TRF;Oslo Sandefjord-Torp Arpt;10.258611;59.186667;156;NO;Norway;16;Northern Europe;4; Europe
+1055;UME;Umea;20.282778;63.791944;184;SE;Sweden;16;Northern Europe;4; Europe
+1056;VAA;Vaasa;21.762222;63.050556;66;FI;Finland;16;Northern Europe;4; Europe
+1057;VBY;Visby;18.346111;57.662778;184;SE;Sweden;16;Northern Europe;4; Europe
+1058;VNO;Vilnius;25.285833;54.634167;123;LT;Lithuania;16;Northern Europe;4; Europe
+1059;ACE;Lanzarote;-13.605278;28.945556;64;ES;Spain;17;Southern Europe;4; Europe
+1060;AGP;Malaga;-4.499167;36.675000;64;ES;Spain;17;Southern Europe;4; Europe
+1061;AHO;Alghero;8.289722;40.630278;101;IT;Italy;17;Southern Europe;4; Europe
+1062;ALC;Alicante;-0.558056;38.282222;64;ES;Spain;17;Southern Europe;4; Europe
+1063;AOI;Ancona;13.360278;43.616667;101;IT;Italy;17;Southern Europe;4; Europe
+1064;ATH;Athens;23.944444;37.936389;84;GR;Greece;17;Southern Europe;4; Europe
+1065;BCN;Barcelona Apt;2.078333;41.296944;64;ES;Spain;17;Southern Europe;4; Europe
+1066;BDS;Brindisi;17.948056;40.660556;101;IT;Italy;17;Southern Europe;4; Europe
+1067;BEG;Belgrade;20.309167;44.818333;177;RS;Serbia;17;Southern Europe;4; Europe
+1068;BGY;Milan Bergamo/Orio al Serio Apt;9.700278;45.668889;101;IT;Italy;17;Southern Europe;4; Europe
+1069;BIO;Bilbao;-2.910556;43.301111;64;ES;Spain;17;Southern Europe;4; Europe
+1070;BLQ;Bologna Guglielmo Marconi;11.296944;44.530833;101;IT;Italy;17;Southern Europe;4; Europe
+1071;BRI;Bari;16.765000;41.138056;101;IT;Italy;17;Southern Europe;4; Europe
+1072;CAG;Cagliari;9.057778;39.251389;101;IT;Italy;17;Southern Europe;4; Europe
+1073;CFU;Kerkyra;19.911667;39.601944;84;GR;Greece;17;Southern Europe;4; Europe
+1074;CHQ;Chania;24.149722;35.531667;84;GR;Greece;17;Southern Europe;4; Europe
+1075;CIA;Rome Ciampino Apt;12.595000;41.798889;101;IT;Italy;17;Southern Europe;4; Europe
+1076;CTA;Catania;15.063889;37.466667;101;IT;Italy;17;Southern Europe;4; Europe
+1077;CUF;Cuneo;7.623056;44.547500;101;IT;Italy;17;Southern Europe;4; Europe
+1078;DBV;Dubrovnik;18.268333;42.561389;91;HR;Croatia;17;Southern Europe;4; Europe
+1079;EFL;Kefallinia;20.500556;38.120000;84;GR;Greece;17;Southern Europe;4; Europe
+1080;FAO;Faro;-7.965833;37.014444;171;PT;Portugal;17;Southern Europe;4; Europe
+1081;FCO;Rome Fiumicino Apt;12.238889;41.800278;101;IT;Italy;17;Southern Europe;4; Europe
+1082;FLR;Florence Amerigo Vespucci;11.202778;43.808611;101;IT;Italy;17;Southern Europe;4; Europe
+1083;FNC;Funchal;-16.778056;32.694167;171;PT;Portugal;17;Southern Europe;4; Europe
+1084;FUE;Fuerteventura;-13.863889;28.452778;64;ES;Spain;17;Southern Europe;4; Europe
+1085;GIB;Gibraltar;-5.349722;36.151111;78;GI;Gibraltar;17;Southern Europe;4; Europe
+1086;GOA;Genoa;8.837500;44.413333;101;IT;Italy;17;Southern Europe;4; Europe
+1087;GRO;Girona;2.760556;41.900833;64;ES;Spain;17;Southern Europe;4; Europe
+1088;GRX;Granada;-3.777222;37.188611;64;ES;Spain;17;Southern Europe;4; Europe
+1089;HER;Irakleion;25.180278;35.339722;84;GR;Greece;17;Southern Europe;4; Europe
+1090;IBZ;Ibiza;1.373056;38.872778;64;ES;Spain;17;Southern Europe;4; Europe
+1091;JMK;Mykonos;25.348056;37.435000;84;GR;Greece;17;Southern Europe;4; Europe
+1092;JTR;Thira;25.479444;36.399167;84;GR;Greece;17;Southern Europe;4; Europe
+1093;KGS;Kos;27.091667;36.793333;84;GR;Greece;17;Southern Europe;4; Europe
+1094;LCG;A Coruna;-8.377222;43.302222;64;ES;Spain;17;Southern Europe;4; Europe
+1095;LEI;Almeria;-2.370000;36.843889;64;ES;Spain;17;Southern Europe;4; Europe
+1096;LIN;Milan Linate Apt;9.278333;45.449444;101;IT;Italy;17;Southern Europe;4; Europe
+1097;LIS;Lisbon;-9.134167;38.774167;171;PT;Portugal;17;Southern Europe;4; Europe
+1098;LJU;Ljubljana;14.457500;46.223611;187;SI;Slovenia;17;Southern Europe;4; Europe
+1099;LPA;Gran Canaria;-15.386667;27.931944;64;ES;Spain;17;Southern Europe;4; Europe
+1100;MAD;Madrid Adolfo Suarez-Barajas Apt;-3.566667;40.493611;64;ES;Spain;17;Southern Europe;4; Europe
+1101;MAH;Menorca;4.218611;39.862500;64;ES;Spain;17;Southern Europe;4; Europe
+1102;MJT;Mytilini;26.602222;39.053333;84;GR;Greece;17;Southern Europe;4; Europe
+1103;MJV;Murcia;-0.812500;37.775000;64;ES;Spain;17;Southern Europe;4; Europe
+1104;MLA;Malta;14.477500;35.857500;142;MT;Malta;17;Southern Europe;4; Europe
+1105;MLN;Melilla;-2.956389;35.279722;64;ES;Spain;17;Southern Europe;4; Europe
+1106;MXP;Milan Malpensa Apt;8.723056;45.630000;101;IT;Italy;17;Southern Europe;4; Europe
+1107;NAP;Naples Capodichino Apt;14.290833;40.884444;101;IT;Italy;17;Southern Europe;4; Europe
+1108;OLB;Olbia;9.517778;40.898611;101;IT;Italy;17;Southern Europe;4; Europe
+1109;OPO;Porto;-8.678056;41.235556;171;PT;Portugal;17;Southern Europe;4; Europe
+1110;OVD;Asturias;-6.034722;43.563611;64;ES;Spain;17;Southern Europe;4; Europe
+1111;PDL;Ponta Delgada;-25.697778;37.741111;171;PT;Portugal;17;Southern Europe;4; Europe
+1112;PMI;Palma De Mallorca;2.738889;39.551667;64;ES;Spain;17;Southern Europe;4; Europe
+1113;PMO;Palermo;13.099444;38.181944;101;IT;Italy;17;Southern Europe;4; Europe
+1114;PRN;Pristina;21.035833;42.572778;177;RS;Serbia;17;Southern Europe;4; Europe
+1115;PSA;Pisa;10.395556;43.682778;101;IT;Italy;17;Southern Europe;4; Europe
+1116;PSR;Pescara;14.186667;42.431667;101;IT;Italy;17;Southern Europe;4; Europe
+1117;PUY;Pula;13.922222;44.893611;91;HR;Croatia;17;Southern Europe;4; Europe
+1118;REG;Reggio di Calabria;15.653611;38.071944;101;IT;Italy;17;Southern Europe;4; Europe
+1119;REU;Reus;1.167222;41.147500;64;ES;Spain;17;Southern Europe;4; Europe
+1120;RHO;Rhodes;28.086111;36.405556;84;GR;Greece;17;Southern Europe;4; Europe
+1121;SCQ;Santiago de Compostela;-8.415278;42.896389;64;ES;Spain;17;Southern Europe;4; Europe
+1122;SDR;Santander;-3.820000;43.426944;64;ES;Spain;17;Southern Europe;4; Europe
+1123;SJJ;Sarajevo;18.331389;43.824722;17;BA;Bosnia and Herzegovina;17;Southern Europe;4; Europe
+1124;SKG;Thessaloniki;22.970833;40.519722;84;GR;Greece;17;Southern Europe;4; Europe
+1125;SKP;Skopje;21.621389;41.961667;133;MK;Macedonia Former Yugoslav Republic of;17;Southern Europe;4; Europe
+1126;SPC;Santa Cruz de la Palma;-17.755556;28.626389;64;ES;Spain;17;Southern Europe;4; Europe
+1127;SPU;Split;16.298056;43.538889;91;HR;Croatia;17;Southern Europe;4; Europe
+1128;SUF;Lamezia Terme;16.241667;38.908333;101;IT;Italy;17;Southern Europe;4; Europe
+1129;SVQ;Sevilla;-5.893056;37.418056;64;ES;Spain;17;Southern Europe;4; Europe
+1130;TER;Terceira;-27.090833;38.761944;171;PT;Portugal;17;Southern Europe;4; Europe
+1131;TFN;Tenerife Norte;-16.341667;28.482778;64;ES;Spain;17;Southern Europe;4; Europe
+1132;TFS;Tenerife Sur Apt;-16.572500;28.044444;64;ES;Spain;17;Southern Europe;4; Europe
+1133;TGD;Podgorica;19.251944;42.359444;130;ME;Montenegro;17;Southern Europe;4; Europe
+1134;TIA;Tirana;19.720833;41.415000;6;AL;Albania;17;Southern Europe;4; Europe
+1135;TIV;Tivat;18.723333;42.404722;130;ME;Montenegro;17;Southern Europe;4; Europe
+1136;TPS;Trapani;12.494167;37.907500;101;IT;Italy;17;Southern Europe;4; Europe
+1137;TRN;Turin Caselle Airport;7.649444;45.202500;101;IT;Italy;17;Southern Europe;4; Europe
+1138;TRS;Trieste;13.472222;45.827500;101;IT;Italy;17;Southern Europe;4; Europe
+1139;TSF;Venice Treviso/Sant'Angelo Apt;12.197778;45.650833;101;IT;Italy;17;Southern Europe;4; Europe
+1140;VCE;Venice Marco Polo Apt;12.351944;45.505278;101;IT;Italy;17;Southern Europe;4; Europe
+1141;VGO;Vigo;-8.626667;42.231667;64;ES;Spain;17;Southern Europe;4; Europe
+1142;VLC;Valencia;-0.481667;39.489444;64;ES;Spain;17;Southern Europe;4; Europe
+1143;VRN;Verona Villafranca Airport;10.888056;45.396389;101;IT;Italy;17;Southern Europe;4; Europe
+1144;XRY;Jerez;-6.060000;36.744722;64;ES;Spain;17;Southern Europe;4; Europe
+1145;ZAD;Zadar;15.346667;44.108333;91;HR;Croatia;17;Southern Europe;4; Europe
+1146;ZAG;Zagreb;16.068889;45.743056;91;HR;Croatia;17;Southern Europe;4; Europe
+1147;ZAZ;Zaragoza;-1.041667;41.666111;64;ES;Spain;17;Southern Europe;4; Europe
+1148;ZTH;Zakinthos Island;20.884167;37.750833;84;GR;Greece;17;Southern Europe;4; Europe
+1149;ABZ;Aberdeen;-2.200278;57.204167;73;GB;United Kingdom;18;Western Europe;4; Europe
+1150;AJA;Ajaccio;8.802500;41.923889;71;FR;France;18;Western Europe;4; Europe
+1151;AMS;Amsterdam;4.764167;52.308056;155;NL;Netherlands;18;Western Europe;4; Europe
+1152;BES;Brest;-4.421667;48.447222;71;FR;France;18;Western Europe;4; Europe
+1153;BFS;Belfast International Apt;-6.215833;54.657500;73;GB;United Kingdom;18;Western Europe;4; Europe
+1154;BHD;Belfast George Best City Apt;-5.872500;54.618056;73;GB;United Kingdom;18;Western Europe;4; Europe
+1155;BHX;Birmingham Airport;-1.747778;52.453611;73;GB;United Kingdom;18;Western Europe;4; Europe
+1156;BIA;Bastia;9.484722;42.550000;71;FR;France;18;Western Europe;4; Europe
+1157;BIQ;Biarritz;-1.531111;43.468333;71;FR;France;18;Western Europe;4; Europe
+1158;BOD;Bordeaux Merignac Apt;-0.715278;44.828611;71;FR;France;18;Western Europe;4; Europe
+1159;BOH;Bournemouth;-1.842500;50.780000;73;GB;United Kingdom;18;Western Europe;4; Europe
+1160;BRE;Bremen;8.786667;53.047500;54;DE;Germany;18;Western Europe;4; Europe
+1161;BRN;Berne Belp;7.497222;46.914167;40;CH;Switzerland;18;Western Europe;4; Europe
+1162;BRS;Bristol;-2.718889;51.382500;73;GB;United Kingdom;18;Western Europe;4; Europe
+1163;BRU;Brussels Airport;4.484444;50.901389;20;BE;Belgium;18;Western Europe;4; Europe
+1164;BSL;Basel;7.521667;47.601111;40;CH;Switzerland;18;Western Europe;4; Europe
+1165;BVA;Paris Beauvais-Tille Airport;2.112778;49.454444;71;FR;France;18;Western Europe;4; Europe
+1166;CCF;Carcassonne;2.308611;43.215833;71;FR;France;18;Western Europe;4; Europe
+1167;CDG;Paris Charles de Gaulle Apt;2.547778;49.009722;71;FR;France;18;Western Europe;4; Europe
+1168;CFE;Clermont-Ferrand;3.162500;45.785833;71;FR;France;18;Western Europe;4; Europe
+1169;CGN;Cologne/Bonn Apt;7.142778;50.865833;54;DE;Germany;18;Western Europe;4; Europe
+1170;CLY;Calvi;8.793056;42.520278;71;FR;France;18;Western Europe;4; Europe
+1171;CRL;Brussels S. Charleroi Airport;4.453889;50.459167;20;BE;Belgium;18;Western Europe;4; Europe
+1172;CWL;Cardiff;-3.343333;51.396667;73;GB;United Kingdom;18;Western Europe;4; Europe
+1173;DRS;Dresden;13.768056;51.134444;54;DE;Germany;18;Western Europe;4; Europe
+1174;DSA;Doncaster/Sheffield;-1.003889;53.475278;73;GB;United Kingdom;18;Western Europe;4; Europe
+1175;DTM;Dortmund;7.612222;51.518333;54;DE;Germany;18;Western Europe;4; Europe
+1176;DUS;Duesseldorf International Airport;6.766667;51.289444;54;DE;Germany;18;Western Europe;4; Europe
+1177;EDI;Edinburgh;-3.372500;55.950000;73;GB;United Kingdom;18;Western Europe;4; Europe
+1178;EIN;Eindhoven Airport;5.374444;51.450000;155;NL;Netherlands;18;Western Europe;4; Europe
+1179;EMA;Nottingham East Midlands Airport;-1.328056;52.831111;73;GB;United Kingdom;18;Western Europe;4; Europe
+1180;EXT;Exeter;-3.413889;50.734444;73;GB;United Kingdom;18;Western Europe;4; Europe
+1181;FDH;Friedrichshafen;9.511389;47.671389;54;DE;Germany;18;Western Europe;4; Europe
+1182;FKB;Karlsruhe/Baden-Baden Baden Airpark;8.080556;48.779444;54;DE;Germany;18;Western Europe;4; Europe
+1183;FMM;Memmingen;10.237500;47.988056;54;DE;Germany;18;Western Europe;4; Europe
+1184;FMO;Muenster/Osnabrueck;7.684722;52.134722;54;DE;Germany;18;Western Europe;4; Europe
+1185;FRA;Frankfurt International Apt;8.570556;50.033056;54;DE;Germany;18;Western Europe;4; Europe
+1186;FSC;Figari;9.096667;41.502222;71;FR;France;18;Western Europe;4; Europe
+1187;GCI;Guernsey;-2.601944;49.434722;73;GB;United Kingdom;18;Western Europe;4; Europe
+1188;GLA;Glasgow International Airport;-4.433333;55.871944;73;GB;United Kingdom;18;Western Europe;4; Europe
+1189;GRZ;Graz;15.440000;46.993611;13;AT;Austria;18;Western Europe;4; Europe
+1190;GVA;Geneva;6.108889;46.238056;40;CH;Switzerland;18;Western Europe;4; Europe
+1191;HAJ;Hannover;9.689444;52.460556;54;DE;Germany;18;Western Europe;4; Europe
+1192;HAM;Hamburg Airport;9.988333;53.630278;54;DE;Germany;18;Western Europe;4; Europe
+1193;HHN;Frankfurt Hahn Airport;7.263889;49.948611;54;DE;Germany;18;Western Europe;4; Europe
+1194;INN;Innsbruck;11.343889;47.260278;13;AT;Austria;18;Western Europe;4; Europe
+1195;INV;Inverness;-4.050000;57.540000;73;GB;United Kingdom;18;Western Europe;4; Europe
+1196;IOM;Isle Of Man;-4.624167;54.083333;73;GB;United Kingdom;18;Western Europe;4; Europe
+1197;JER;Jersey;-2.195278;49.207778;73;GB;United Kingdom;18;Western Europe;4; Europe
+1198;KLU;Klagenfurt;14.337778;46.642778;13;AT;Austria;18;Western Europe;4; Europe
+1199;LBA;Leeds Bradford;-1.660556;53.865833;73;GB;United Kingdom;18;Western Europe;4; Europe
+1200;LBC;Hamburg Luebeck-Blankensee Airport;10.719167;53.805278;54;DE;Germany;18;Western Europe;4; Europe
+1201;LCY;London City Apt;0.054167;51.505000;73;GB;United Kingdom;18;Western Europe;4; Europe
+1202;LDY;Derry;-7.161111;55.042778;73;GB;United Kingdom;18;Western Europe;4; Europe
+1203;LEJ;Leipzig/Halle;12.241667;51.432500;54;DE;Germany;18;Western Europe;4; Europe
+1204;LGW;London Gatwick Apt;-0.190278;51.148056;73;GB;United Kingdom;18;Western Europe;4; Europe
+1205;LHR;London Heathrow Apt;-0.461389;51.477500;73;GB;United Kingdom;18;Western Europe;4; Europe
+1206;LIG;Limoges;1.180278;45.860833;71;FR;France;18;Western Europe;4; Europe
+1207;LIL;Lille Lesquin Airport;3.086944;50.563333;71;FR;France;18;Western Europe;4; Europe
+1208;LNZ;Linz Blue Danube;14.187500;48.233333;13;AT;Austria;18;Western Europe;4; Europe
+1209;LPL;Liverpool;-2.849722;53.333611;73;GB;United Kingdom;18;Western Europe;4; Europe
+1210;LTN;London Luton Apt;-0.368333;51.874722;73;GB;United Kingdom;18;Western Europe;4; Europe
+1211;LUX;Luxembourg;6.204444;49.623333;124;LU;Luxembourg;18;Western Europe;4; Europe
+1212;LYS;Lyon St-Exupery Apt;5.081111;45.725556;71;FR;France;18;Western Europe;4; Europe
+1213;MAN;Manchester;-2.275000;53.353611;73;GB;United Kingdom;18;Western Europe;4; Europe
+1214;MLH;Mulhouse;7.529167;47.590000;71;FR;France;18;Western Europe;4; Europe
+1215;MPL;Montpellier Mediterranee Apt;3.961389;43.583333;71;FR;France;18;Western Europe;4; Europe
+1216;MRS;Marseille Provence Apt;5.215000;43.436667;71;FR;France;18;Western Europe;4; Europe
+1217;MST;Maastricht/Aachen;5.776944;50.915833;155;NL;Netherlands;18;Western Europe;4; Europe
+1218;MUC;Munich International Airport;11.786111;48.353889;54;DE;Germany;18;Western Europe;4; Europe
+1219;NCE;Nice;7.215000;43.665278;71;FR;France;18;Western Europe;4; Europe
+1220;NCL;Newcastle;-1.691667;55.037500;73;GB;United Kingdom;18;Western Europe;4; Europe
+1221;NRN;Duesseldorf Weeze Airport;6.142222;51.602500;54;DE;Germany;18;Western Europe;4; Europe
+1222;NTE;Nantes Atlantique Airport;-1.607778;47.156944;71;FR;France;18;Western Europe;4; Europe
+1223;NUE;Nuremberg;11.066944;49.498611;54;DE;Germany;18;Western Europe;4; Europe
+1224;NWI;Norwich;1.282778;52.675833;73;GB;United Kingdom;18;Western Europe;4; Europe
+1225;ORY;Paris Orly Apt;2.379444;48.723333;71;FR;France;18;Western Europe;4; Europe
+1226;PAD;Paderborn/Lippstadt;8.616389;51.614167;54;DE;Germany;18;Western Europe;4; Europe
+1227;PGF;Perpignan;2.869722;42.740833;71;FR;France;18;Western Europe;4; Europe
+1228;PIK;Glasgow Prestwick Apt;-4.586667;55.509444;73;GB;United Kingdom;18;Western Europe;4; Europe
+1229;PUF;Pau;-0.418611;43.380000;71;FR;France;18;Western Europe;4; Europe
+1230;RNS;Rennes St Jacques Airport;-1.732222;48.071944;71;FR;France;18;Western Europe;4; Europe
+1231;RTM;Rotterdam Apt;4.430833;51.953056;155;NL;Netherlands;18;Western Europe;4; Europe
+1232;SCN;Saarbruecken Airport;7.110556;49.214722;54;DE;Germany;18;Western Europe;4; Europe
+1233;SEN;London Southend Apt;0.695556;51.571389;73;GB;United Kingdom;18;Western Europe;4; Europe
+1234;SOU;Southampton;-1.356667;50.950278;73;GB;United Kingdom;18;Western Europe;4; Europe
+1235;STN;London Stansted Apt;0.235000;51.885000;73;GB;United Kingdom;18;Western Europe;4; Europe
+1236;STR;Stuttgart Airport;9.221944;48.690000;54;DE;Germany;18;Western Europe;4; Europe
+1237;SXB;Strasbourg;7.634444;48.541944;71;FR;France;18;Western Europe;4; Europe
+1238;SXF;Berlin Schoenefeld Apt;13.520556;52.378611;54;DE;Germany;18;Western Europe;4; Europe
+1239;SZG;Salzburg W A Mozart;13.004444;47.793333;13;AT;Austria;18;Western Europe;4; Europe
+1240;TLN;Toulon/Hyeres;6.146111;43.097222;71;FR;France;18;Western Europe;4; Europe
+1241;TLS;Toulouse;1.367778;43.635000;71;FR;France;18;Western Europe;4; Europe
+1242;TXL;Berlin Tegel Apt;13.287778;52.559722;54;DE;Germany;18;Western Europe;4; Europe
+1243;VIE;Vienna International;16.578056;48.110278;13;AT;Austria;18;Western Europe;4; Europe
+1244;ZRH;Zurich Airport;8.549167;47.464722;40;CH;Switzerland;18;Western Europe;4; Europe
+1245;ADL;Adelaide International;138.530556;-34.945000;14;AU;Australia;19;Australia and New Zealand;5; Oceania
+1246;AKL;Auckland International Apt;174.791667;-37.009722;160;NZ;New Zealand;19;Australia and New Zealand;5; Oceania
+1247;ASP;Alice Springs Airport;133.902222;-23.806667;14;AU;Australia;19;Australia and New Zealand;5; Oceania
+1248;AVV;Melbourne Avalon Airport;144.469444;-38.039444;14;AU;Australia;19;Australia and New Zealand;5; Oceania
+1249;BME;Broome;122.228333;-17.948889;14;AU;Australia;19;Australia and New Zealand;5; Oceania
+1250;BNE;Brisbane;153.117500;-27.384167;14;AU;Australia;19;Australia and New Zealand;5; Oceania
+1251;BNK;Ballina;153.562500;-28.833889;14;AU;Australia;19;Australia and New Zealand;5; Oceania
+1252;CBR;Canberra;149.195000;-35.306944;14;AU;Australia;19;Australia and New Zealand;5; Oceania
+1253;CFS;Coffs Harbour;153.116389;-30.320556;14;AU;Australia;19;Australia and New Zealand;5; Oceania
+1254;CHC;Christchurch;172.532222;-43.489444;160;NZ;New Zealand;19;Australia and New Zealand;5; Oceania
+1255;CNS;Cairns;145.748889;-16.878056;14;AU;Australia;19;Australia and New Zealand;5; Oceania
+1256;DRW;Darwin International;130.876667;-12.414722;14;AU;Australia;19;Australia and New Zealand;5; Oceania
+1257;DUD;Dunedin;170.197500;-45.929167;160;NZ;New Zealand;19;Australia and New Zealand;5; Oceania
+1258;EMD;Emerald;148.177778;-23.570000;14;AU;Australia;19;Australia and New Zealand;5; Oceania
+1259;GLT;Gladstone;151.222778;-23.869722;14;AU;Australia;19;Australia and New Zealand;5; Oceania
+1260;HBA;Hobart;147.510278;-42.836111;14;AU;Australia;19;Australia and New Zealand;5; Oceania
+1261;HLZ;Hamilton;175.331944;-37.866667;160;NZ;New Zealand;19;Australia and New Zealand;5; Oceania
+1262;HTI;Hamilton Island;148.951667;-20.358056;14;AU;Australia;19;Australia and New Zealand;5; Oceania
+1263;ISA;Mount Isa;139.488611;-20.663889;14;AU;Australia;19;Australia and New Zealand;5; Oceania
+1264;KGI;Kalgoorlie-Boulder;121.463611;-30.791389;14;AU;Australia;19;Australia and New Zealand;5; Oceania
+1265;KTA;Karratha;116.773333;-20.712222;14;AU;Australia;19;Australia and New Zealand;5; Oceania
+1266;LST;Launceston;147.211111;-41.545278;14;AU;Australia;19;Australia and New Zealand;5; Oceania
+1267;MCY;Sunshine Coast;153.091111;-26.603333;14;AU;Australia;19;Australia and New Zealand;5; Oceania
+1268;MEL;Melbourne Airport;144.843333;-37.673333;14;AU;Australia;19;Australia and New Zealand;5; Oceania
+1269;MKY;Mackay;149.179722;-21.171667;14;AU;Australia;19;Australia and New Zealand;5; Oceania
+1270;MOV;Moranbah;148.076389;-22.058611;14;AU;Australia;19;Australia and New Zealand;5; Oceania
+1271;NPE;Napier-Hastings;176.867778;-39.464444;160;NZ;New Zealand;19;Australia and New Zealand;5; Oceania
+1272;NPL;New Plymouth;174.177500;-39.008056;160;NZ;New Zealand;19;Australia and New Zealand;5; Oceania
+1273;NSN;Nelson;173.224167;-41.296667;160;NZ;New Zealand;19;Australia and New Zealand;5; Oceania
+1274;NTL;Newcastle Williamtown Apt;151.834444;-32.795000;14;AU;Australia;19;Australia and New Zealand;5; Oceania
+1275;OOL;Gold Coast;153.504722;-28.164444;14;AU;Australia;19;Australia and New Zealand;5; Oceania
+1276;PER;Perth;115.966944;-31.940278;14;AU;Australia;19;Australia and New Zealand;5; Oceania
+1277;PHE;Port Hedland;118.626389;-20.377778;14;AU;Australia;19;Australia and New Zealand;5; Oceania
+1278;PMR;Palmerston North;175.613611;-40.320000;160;NZ;New Zealand;19;Australia and New Zealand;5; Oceania
+1279;ROK;Rockhampton;150.475278;-23.381944;14;AU;Australia;19;Australia and New Zealand;5; Oceania
+1280;SYD;Sydney Kingsford Smith Apt;151.177222;-33.946111;14;AU;Australia;19;Australia and New Zealand;5; Oceania
+1281;TSV;Townsville;146.765278;-19.252500;14;AU;Australia;19;Australia and New Zealand;5; Oceania
+1282;WLG;Wellington;174.806944;-41.326944;160;NZ;New Zealand;19;Australia and New Zealand;5; Oceania
+1283;ZNE;Newman;119.802778;-23.417778;14;AU;Australia;19;Australia and New Zealand;5; Oceania
+1284;ZQN;Queenstown;168.746667;-45.018333;160;NZ;New Zealand;19;Australia and New Zealand;5; Oceania
+1285;LAE;Lae;146.726111;-6.569722;165;PG;Papua New Guinea;20;Melanesia;5; Oceania
+1286;NAN;Nadi;177.443611;-17.755000;67;FJ;Fiji;20;Melanesia;5; Oceania
+1287;NOU;La Tontouta;166.213056;-22.014444;150;NC;New Caledonia;20;Melanesia;5; Oceania
+1288;POM;Port Moresby;147.220000;-9.443333;165;PG;Papua New Guinea;20;Melanesia;5; Oceania
+1289;VLI;Port Vila;168.319722;-17.699444;223;VU;Vanuatu;20;Melanesia;5; Oceania
+1290;GUM;Guam Antonio B Won Pat International;144.796111;13.483333;86;GU;Guam;21;Micronesia;5; Oceania
+1291;SPN;Saipan;145.729444;15.118889;138;MP;Northern Mariana Islands (except Guam);21;Micronesia;5; Oceania
+1292;PPT;Tahiti;-149.607222;-17.553889;164;PF;French Polynesia;22;Polynesia;5; Oceania
