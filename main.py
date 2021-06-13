@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import os
 import networkx as nx
-
+import seaborn as sns
 
 def load_files(file_path):
     col_names = ["from_code", "to_code", "from_airport", "to_airport", "people"]
@@ -27,10 +27,15 @@ def graph_setup(file_path):
     graph = create_graph(graph_df)
     return graph
 
+def find_k_hubs(G, k):
+    degrees = np.array([G.degree(n, weight='weight') for n in G.nodes()])
+    k_top_indexes = sorted(range(len(degrees)), key=lambda i: degrees[i])[-k:]
+    k_top_nodes = [G.nodes(index) for index in k_top_indexes]
+    return k_top_nodes
 
 def plot_degree_dist(G):
-    degrees = [G.degree(n) for n in G.nodes()]
-    plt.hist(degrees, 10)
+    degrees = np.array([G.degree(n, weight='weight') for n in G.nodes()])
+    sns.histplot(degrees, bins=50)
     plt.tight_layout()
     plt.show()
 
@@ -39,4 +44,7 @@ if __name__ == '__main__':
     file_path = os.path.join("Data", "links_0.95.csv")
     graph = graph_setup(file_path)
     plot_degree_dist(graph)
+    k = 10
+    k_top_nodes = find_k_hubs(graph, k)
+
     print()
