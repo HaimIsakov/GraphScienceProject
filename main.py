@@ -27,9 +27,11 @@ def graph_setup(file_path):
     graph = create_graph(graph_df)
     return graph
 
+
 def plot_degree_dist(G):
     degrees = [G.degree(n) for n in G.nodes()]
-    plt.hist(degrees, 30, density=0.5)
+    plt.hist(degrees, 10)
+    plt.tight_layout()
     plt.show()
 
 
