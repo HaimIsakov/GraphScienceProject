@@ -1,9 +1,12 @@
+
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 import os
 import networkx as nx
 import seaborn as sns
+import community
+
 
 
 class AirportGraph:
@@ -30,7 +33,8 @@ class AirportGraph:
         return id_airports_dict
 
     def create_graph(self, graph_df):
-        graph = nx.DiGraph()
+        # graph = nx.DiGraph()
+        graph = nx.Graph()
         from_airport = list(graph_df["from_code"])
         to_airport = list(graph_df["to_code"])
         people = list(graph_df["people"])
@@ -46,15 +50,16 @@ class AirportGraph:
         return k_top_airports
 
     def plot_degree_dist(self):
-        log_scale_or_not = False
+        log_scale_or_not = True
         degrees = np.array([self.graph.degree(n, weight='weight') for n in self.graph.nodes()])
         if log_scale_or_not:
-            sns.histplot(degrees, bins=200, log_scale=(True, True))
+            # sns.histplot(degrees, bins=200, log_scale=(True, True))
+            plt.loglog(degrees, 'bo')
             # plt.yscale('log')
             # plt.xscale('log')
             plt.title('Degrees Histogram (log log scale)')
             plt.tight_layout()
-            plt.savefig('Degrees_Histogram_(log log scale).png')
+            plt.savefig('Degrees_Histogram_(log log scale)1.png')
             plt.show()
         else:
             sns.histplot(degrees, bins=200, log_scale=(False, False))
@@ -81,11 +86,14 @@ class AirportGraph:
         plt.show()
 
 
+
+
 if __name__ == '__main__':
     file_path = os.path.join("Data", "links_0.95.csv")
     airport_graph = AirportGraph(file_path)
+    part = community.best_partition(airport_graph.graph, weight='weight')
     k = 10
-    k_top_airports = airport_graph.find_k_hubs(k)
+    # k_top_airports = airport_graph.find_k_hubs(k)
     airport_graph.plot_degree_dist()
-    airport_graph.plot_betweenness_centrality()
-    print(k_top_airports)
+    # airport_graph.plot_betweenness_centrality()
+    # print(k_top_airports)
