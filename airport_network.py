@@ -4,6 +4,10 @@ import matplotlib.pyplot as plt
 import networkx as nx
 import seaborn as sns
 
+import geopy.distance
+
+from states_network import load_nodes_file
+
 
 def load_file(file_path):
     col_names = ["from_code", "to_code", "from_airport", "to_airport", "people"]
@@ -26,10 +30,12 @@ def create_graph(graph_df):
 
 
 class AirportGraph:
-    def __init__(self, edges_file_path):
+    def __init__(self, nodes_file_path, edges_file_path):
         self.graph_df = load_file(edges_file_path)
+        self.nodes_graph_df = load_nodes_file(nodes_file_path)
         self.graph = create_graph(self.graph_df)
         self.id_airports_dict = self.create_dict_between_nodes_id_and_airports()
+        self.id_location_dict = self.create_dict_between_nodes_id_and_location()
 
     def create_dict_between_nodes_id_and_airports(self):
         id_airports_dict = {}
@@ -42,6 +48,15 @@ class AirportGraph:
         self.graph_df.apply(lambda x: add_to_dict(id_airports_dict, x), axis=1)
         return id_airports_dict
 
+    def create_dict_between_nodes_id_and_location(self):
+        id_location_dict = {}
+        def add_to_dict(id_location_dict, x):
+            if x["airport_code"] not in id_location_dict:
+                id_location_dict[x["airport_code"]] = (x["loc2"], x["loc1"])
+
+        self.nodes_graph_df.apply(lambda x: add_to_dict(id_location_dict, x), axis=1)
+        return id_location_dict
+
     def find_k_hubs(self, k):
         degrees = np.array([self.graph.degree(n, weight='weight') for n in self.graph.nodes()])
         k_top_indexes = sorted(range(len(degrees)), key=lambda i: degrees[i])[-k:]
@@ -53,8 +68,8 @@ class AirportGraph:
         log_scale_or_not = True
         degrees = np.array([self.graph.degree(n, weight='weight') for n in self.graph.nodes()])
         if log_scale_or_not:
-            # sns.histplot(degrees, bins=200, log_scale=(True, True))
-            plt.loglog(degrees, 'bo')
+            sns.histplot(degrees, bins=50, log_scale=(True, True))
+            # plt.loglog(degrees, 'bo')
             # plt.yscale('log')
             # plt.xscale('log')
             plt.title('Degrees Histogram (log log scale)')
@@ -84,3 +99,24 @@ class AirportGraph:
             plt.tight_layout()
             plt.savefig('Betweenness_Centrality_Histogram.png')
         plt.show()
+
+    def plot_distance_dist(self):
+        log_scale_or_not = True
+        edges_location = [(self.id_location_dict[id1], self.id_location_dict[id2]) for id1, id2 in self.graph.edges]
+        distances = [geopy.distance.distance(loc1, loc2).km for loc1, loc2 in edges_location]
+        if log_scale_or_not:
+            sns.histplot(distances, bins=50, log_scale=(True, True))
+            # plt.loglog(distances, 'bo')
+            # plt.yscale('log')
+            # plt.xscale('log')
+            plt.title('Distances Histogram (log log scale)')
+            plt.tight_layout()
+            plt.savefig('Distances_Histogram_(log log scale).png')
+            plt.show()
+        else:
+            sns.histplot(distances, bins=50, log_scale=(False, False))
+            plt.title('Distances Histogram')
+            plt.tight_layout()
+            plt.savefig('Distances_Histogram.png')
+            plt.show()
+

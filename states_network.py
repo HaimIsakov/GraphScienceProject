@@ -5,7 +5,7 @@ import networkx as nx
 import seaborn as sns
 
 
-def load_file(file_path):
+def load_nodes_file(file_path):
     col_names = ["airport_code", "airport_short_name", "airport_name", "loc1", "loc2", "unknown1", "unknown2", "state", "unknown3", "unknown4", "unknown5", "continent"]
     nodes_graph_df = pd.read_csv(file_path, names=col_names, sep=';', index_col=False)
     nodes_graph_df["airport_code"] = nodes_graph_df["airport_code"].astype(int)
@@ -14,7 +14,7 @@ def load_file(file_path):
 
 class StatesGraph:
     def __init__(self, nodes_file_path, airport_network):
-        self.nodes_graph_df = load_file(nodes_file_path)
+        self.nodes_graph_df = load_nodes_file(nodes_file_path)
         self.id_states_airports_dict = self.create_dict_between_states_and_airports()
         self.states_graph = self.create_state_graph(airport_network)
         self.normalized_states_graph = self.create_normalized_state_graph(airport_network)
