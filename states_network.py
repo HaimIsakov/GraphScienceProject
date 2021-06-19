@@ -3,6 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import networkx as nx
 import seaborn as sns
+from scipy.stats import pearsonr
 
 
 def load_nodes_file(file_path):
@@ -71,3 +72,10 @@ class StatesGraph:
     def find_most_crowded_states_airport(self, k=10):
         return sorted(list(self.states_graph.nodes(data=True)), key=lambda x: x[1]['weight'], reverse=True)[:k]
 
+    def calc_correlation_between_normalized_and_non_normalized_passangers(self):
+        a = sorted(list(self.normalized_states_graph.nodes(data=True)), key=lambda x: x[0], reverse=True)
+        b = sorted(list(self.states_graph.nodes(data=True)), key=lambda x: x[0], reverse=True)
+        a_values = [np.log(x[1]['weight']) for x in a]
+        b_values = [np.log(x[1]['weight']) for x in b]
+        pearson_corr, pvalue = pearsonr(a_values, b_values)
+        print(f"Pearson Correlation is {pearson_corr}")

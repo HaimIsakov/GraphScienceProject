@@ -68,8 +68,8 @@ class AirportGraph:
         log_scale_or_not = True
         degrees = np.array([self.graph.degree(n, weight='weight') for n in self.graph.nodes()])
         if log_scale_or_not:
-            sns.histplot(degrees, bins=50, log_scale=(True, True))
-            # plt.loglog(degrees, 'bo')
+            # sns.histplot(degrees,'bo', bins=50, log_scale=(True, True))
+            plt.loglog(sorted(degrees, reverse=True), 'bo')
             # plt.yscale('log')
             # plt.xscale('log')
             plt.title('Degrees Histogram (log log scale)')
@@ -98,6 +98,28 @@ class AirportGraph:
             plt.title('Betweenness Centrality Histogram')
             plt.tight_layout()
             plt.savefig('Betweenness_Centrality_Histogram.png')
+        plt.show()
+
+    def plot_closeness_centrality(self):
+        log_scale_or_not = False
+        # inward_or_outward = "Inward"
+        inward_or_outward = "Outward"
+        if inward_or_outward == "Inward":
+            closeness_centrality = nx.closeness_centrality(self.graph)
+        else:
+            closeness_centrality = nx.closeness_centrality(self.graph.reverse())
+        closeness_centrality_list = [value for key, value in closeness_centrality.items() if value >= 1e-300]
+        plt.clf()
+        if log_scale_or_not:
+            sns.histplot(closeness_centrality_list, bins=200, log_scale=(True, True))
+            plt.title(f'Closeness Centrality Histogram {inward_or_outward}(log log scale)')
+            plt.tight_layout()
+            plt.savefig(f'Closeness_Centrality_Histogram_{inward_or_outward}(log log scale).png')
+        else:
+            sns.histplot(closeness_centrality_list, bins=200, log_scale=(False, False))
+            plt.title(f'Closeness Centrality Histogram {inward_or_outward}')
+            plt.tight_layout()
+            plt.savefig(f'Closeness_Centrality_Histogram_{inward_or_outward}.png')
         plt.show()
 
     def plot_distance_dist(self):
