@@ -7,7 +7,7 @@ from states_network import *
 file_path = os.path.join("Data", "links_0.95.csv")
 nodes_file_path = os.path.join("Data", "nodes_0.95.csv")
 airport_graph = AirportGraph(nodes_file_path, file_path)
-# airport_graph.plot_degree_dist()
+airport_graph.plot_degree_dist()
 # airport_graph.plot_closeness_centrality()
 # airport_graph.plot_distance_dist()
 # nx.nodes_with_selfloops(airport_graph.graph)

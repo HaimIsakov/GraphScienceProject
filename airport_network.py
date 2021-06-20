@@ -68,8 +68,8 @@ class AirportGraph:
         log_scale_or_not = True
         degrees = np.array([self.graph.degree(n, weight='weight') for n in self.graph.nodes()])
         if log_scale_or_not:
-            # sns.histplot(degrees,'bo', bins=50, log_scale=(True, True))
-            plt.loglog(sorted(degrees, reverse=True), 'bo')
+            ax = sns.histplot(degrees, bins=50, log_scale=(True, True))
+            # plt.loglog(sorted(degrees, reverse=True), 'bo')
             # plt.yscale('log')
             # plt.xscale('log')
             plt.title('Degrees Histogram (log log scale)')
@@ -81,6 +81,40 @@ class AirportGraph:
             plt.title('Degrees Histogram')
             plt.tight_layout()
             plt.savefig('Degrees_Histogram.png')
+            plt.show()
+        plt.clf()
+        in_degrees = np.array([self.graph.in_degree(n, weight='weight') for n in self.graph.nodes()])
+        if log_scale_or_not:
+            ax = sns.histplot(in_degrees, bins=50, log_scale=(True, True))
+            # plt.loglog(sorted(degrees, reverse=True), 'bo')
+            # plt.yscale('log')
+            # plt.xscale('log')
+            plt.title('In Degrees Histogram (log log scale)')
+            plt.tight_layout()
+            plt.savefig('In_Degrees_Histogram_(log log scale).png')
+            plt.show()
+        else:
+            sns.histplot(in_degrees, bins=200, log_scale=(False, False))
+            plt.title('In Degrees Histogram')
+            plt.tight_layout()
+            plt.savefig('In_Degrees_Histogram.png')
+            plt.show()
+        plt.clf()
+        out_degrees = np.array([self.graph.out_degree(n, weight='weight') for n in self.graph.nodes()])
+        if log_scale_or_not:
+            ax = sns.histplot(out_degrees, bins=50, log_scale=(True, True))
+            # plt.loglog(sorted(degrees, reverse=True), 'bo')
+            # plt.yscale('log')
+            # plt.xscale('log')
+            plt.title('Out Degrees Histogram (log log scale)')
+            plt.tight_layout()
+            plt.savefig('Out_Degrees_Histogram_(log log scale).png')
+            plt.show()
+        else:
+            sns.histplot(out_degrees, bins=200, log_scale=(False, False))
+            plt.title('Out Degrees Histogram')
+            plt.tight_layout()
+            plt.savefig('Out_Degrees_Histogram.png')
             plt.show()
 
     def plot_betweenness_centrality(self):
