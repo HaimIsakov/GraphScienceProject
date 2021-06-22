@@ -3,11 +3,9 @@ import numpy as np
 import matplotlib.pyplot as plt
 import networkx as nx
 import seaborn as sns
-
 import geopy.distance
-
 from states_network import load_nodes_file
-
+from scipy.stats import pearsonr
 
 def load_file(file_path):
     col_names = ["from_code", "to_code", "from_airport", "to_airport", "people"]
@@ -117,10 +115,46 @@ class AirportGraph:
             plt.savefig('Out_Degrees_Histogram.png')
             plt.show()
 
+    def conn_between_betweenes_weighted_degree(self):
+        # binary network betweeness centrality
+        betweenness_centrality = nx.betweenness_centrality(self.graph)
+        betweenness_centrality_values = list(betweenness_centrality.values())
+        # weighted in degree
+        weighted_in_degree = dict(self.graph.in_degree(weight='weight'))
+        weighted_in_degree_values = list(weighted_in_degree.values())
+        plt.scatter(betweenness_centrality_values, weighted_in_degree_values)
+        plt.xlabel("Binary Betweenness")
+        plt.ylabel("Weighted In Degree")
+        plt.title("Weighted In Degree as a function of Binary Betweenness")
+        # corr, pvalue = pearsonr(betweenness_centrality_values, weighted_in_degree_values)
+        # print(corr)
+        plt.tight_layout()
+        plt.savefig("Weighted In Degree as a function of Binary Betweenness")
+        plt.show()
+
+    def conn_between_binary_degree_weighted_degree(self):
+        weighted_in_degree = dict(self.graph.in_degree(weight='weight'))
+        weighted_in_degree_values = list(weighted_in_degree.values())
+
+        binary_in_degree = dict(self.graph.in_degree)
+        binary_in_degree_values = list(binary_in_degree.values())
+
+        plt.scatter(binary_in_degree_values, weighted_in_degree_values)
+        plt.xlabel("Binary In Degree")
+        plt.ylabel("Weighted In Degree")
+        plt.title("Weighted In Degree as a function of Binary In Degree")
+        corr, pvalue = pearsonr(binary_in_degree_values, weighted_in_degree_values)
+        print("binary degree and weighted degree correlation", corr)
+        plt.tight_layout()
+        plt.savefig("Weighted In Degree as a function of Binary In Degree")
+        plt.show()
+
+
     def plot_betweenness_centrality(self):
         log_scale_or_not = False
-        betweenness_centrality = nx.betweenness_centrality(self.graph)
-        betweenness_centrality_list = [value for key, value in betweenness_centrality.items() if value >= 1e-300]
+        betweenness_centrality = nx.betweenness_centrality(self.graph, weight='weight')
+        betweenness_centrality_list = betweenness_centrality
+        # betweenness_centrality_list = [value for key, value in betweenness_centrality.items() if value >= 1e-300]
         plt.clf()
         if log_scale_or_not:
             sns.histplot(betweenness_centrality_list, bins=200, log_scale=(True, True))
@@ -139,10 +173,11 @@ class AirportGraph:
         # inward_or_outward = "Inward"
         inward_or_outward = "Outward"
         if inward_or_outward == "Inward":
-            closeness_centrality = nx.closeness_centrality(self.graph)
+            closeness_centrality = nx.closeness_centrality(self.graph, distance='weight')
         else:
-            closeness_centrality = nx.closeness_centrality(self.graph.reverse())
-        closeness_centrality_list = [value for key, value in closeness_centrality.items() if value >= 1e-300]
+            closeness_centrality = nx.closeness_centrality(self.graph.reverse(), distance='weight')
+        closeness_centrality_list = closeness_centrality
+        # closeness_centrality_list = [value for key, value in closeness_centrality.items() if value >= 1e-300]
         plt.clf()
         if log_scale_or_not:
             sns.histplot(closeness_centrality_list, bins=200, log_scale=(True, True))

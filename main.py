@@ -1,5 +1,5 @@
 import os
-import community
+
 from airport_network import *
 from states_network import *
 
@@ -7,7 +7,9 @@ from states_network import *
 file_path = os.path.join("Data", "links_0.95.csv")
 nodes_file_path = os.path.join("Data", "nodes_0.95.csv")
 airport_graph = AirportGraph(nodes_file_path, file_path)
-airport_graph.plot_degree_dist()
+# airport_graph.conn_between_betweenes_weighted_degree()
+airport_graph.conn_between_binary_degree_weighted_degree()
+# airport_graph.plot_degree_dist()
 # airport_graph.plot_closeness_centrality()
 # airport_graph.plot_distance_dist()
 # nx.nodes_with_selfloops(airport_graph.graph)
@@ -19,10 +21,10 @@ airport_graph.plot_degree_dist()
 # # print(k_top_airports)
 #
 # States Network
-state_graph = StatesGraph(nodes_file_path, airport_graph)
-print("Most Crowded State - not normalized")
-print(state_graph.find_most_crowded_states_airport(k=10))
-
-print("Most Crowded State - normalized")
-print(state_graph.find_most_crowded_states_airport_normalized(k=10))
-state_graph.calc_correlation_between_normalized_and_non_normalized_passangers()
+# state_graph = StatesGraph(nodes_file_path, airport_graph)
+# print("Most Crowded State - not normalized")
+# print(state_graph.find_most_crowded_states_airport(k=10))
+#
+# print("Most Crowded State - normalized")
+# print(state_graph.find_most_crowded_states_airport_normalized(k=10))
+# state_graph.calc_correlation_between_normalized_and_non_normalized_passangers()
