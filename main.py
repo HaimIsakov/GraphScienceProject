@@ -8,7 +8,7 @@ file_path = os.path.join("Data", "links_0.95.csv")
 nodes_file_path = os.path.join("Data", "nodes_0.95.csv")
 airport_graph = AirportGraph(nodes_file_path, file_path)
 # airport_graph.conn_between_betweenes_weighted_degree()
-airport_graph.conn_between_binary_degree_weighted_degree()
+# airport_graph.conn_between_binary_degree_weighted_degree()
 # airport_graph.plot_degree_dist()
 # airport_graph.plot_closeness_centrality()
 # airport_graph.plot_distance_dist()
@@ -17,11 +17,16 @@ airport_graph.conn_between_binary_degree_weighted_degree()
 # part = community.best_partition(airport_graph.graph, weight='weight')
 # k = 10
 # # k_top_airports = airport_graph.find_k_hubs(k)
-# # airport_graph.plot_betweenness_centrality()
+# airport_graph.plot_betweenness_centrality()
 # # print(k_top_airports)
+airport_graph.plot_whole_distance_dist()
 #
 # States Network
 # state_graph = StatesGraph(nodes_file_path, airport_graph)
+# state_graph.create_states_file(state_graph.states_graph, name='states_graph')
+# state_graph.create_states_file(state_graph.normalized_states_graph, name='norm_states_graph')
+
+
 # print("Most Crowded State - not normalized")
 # print(state_graph.find_most_crowded_states_airport(k=10))
 #

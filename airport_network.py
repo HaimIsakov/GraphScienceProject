@@ -5,7 +5,8 @@ import networkx as nx
 import seaborn as sns
 import geopy.distance
 from states_network import load_nodes_file
-from scipy.stats import pearsonr
+from scipy.stats import pearsonr, spearmanr
+
 
 def load_file(file_path):
     col_names = ["from_code", "to_code", "from_airport", "to_airport", "people"]
@@ -125,9 +126,13 @@ class AirportGraph:
         plt.scatter(betweenness_centrality_values, weighted_in_degree_values)
         plt.xlabel("Binary Betweenness")
         plt.ylabel("Weighted In Degree")
+        # plt.xscale("log")
+        # plt.yscale("log")
         plt.title("Weighted In Degree as a function of Binary Betweenness")
-        # corr, pvalue = pearsonr(betweenness_centrality_values, weighted_in_degree_values)
-        # print(corr)
+        corr, pvalue = pearsonr(betweenness_centrality_values, weighted_in_degree_values)
+        print(corr)
+        corr, pvalue = spearmanr(betweenness_centrality_values, weighted_in_degree_values)
+        print(corr)
         plt.tight_layout()
         plt.savefig("Weighted In Degree as a function of Binary Betweenness")
         plt.show()
@@ -140,8 +145,14 @@ class AirportGraph:
         binary_in_degree_values = list(binary_in_degree.values())
 
         plt.scatter(binary_in_degree_values, weighted_in_degree_values)
+        corr, pvalue = pearsonr(binary_in_degree_values, weighted_in_degree_values)
+        print(corr)
+        corr, pvalue = spearmanr(binary_in_degree_values, weighted_in_degree_values)
+        print(corr)
         plt.xlabel("Binary In Degree")
         plt.ylabel("Weighted In Degree")
+        plt.xscale('log')
+        plt.yscale('log')
         plt.title("Weighted In Degree as a function of Binary In Degree")
         corr, pvalue = pearsonr(binary_in_degree_values, weighted_in_degree_values)
         print("binary degree and weighted degree correlation", corr)
@@ -151,18 +162,20 @@ class AirportGraph:
 
 
     def plot_betweenness_centrality(self):
-        log_scale_or_not = False
+        log_scale_or_not = True
         betweenness_centrality = nx.betweenness_centrality(self.graph, weight='weight')
         betweenness_centrality_list = betweenness_centrality
-        # betweenness_centrality_list = [value for key, value in betweenness_centrality.items() if value >= 1e-300]
+        # betweenness_centrality_list = [i if i >= 1e-300 else 1e-300 for i in betweenness_centrality_list]
+        # betweenness_centrality_list = [value if value >= 1e-300 else 1e-300 for key, value in betweenness_centrality.items()]
+        betweenness_centrality_list = [value for key, value in betweenness_centrality.items() if value >= 1e-300]
         plt.clf()
         if log_scale_or_not:
-            sns.histplot(betweenness_centrality_list, bins=200, log_scale=(True, True))
+            sns.histplot(betweenness_centrality_list, bins=30, log_scale=(True, True))
             plt.title('Betweenness Centrality Histogram (log log scale)')
             plt.tight_layout()
             plt.savefig('Betweenness_Centrality_Histogram_(log log scale).png')
         else:
-            sns.histplot(betweenness_centrality_list, bins=200, log_scale=(False, False))
+            sns.histplot(betweenness_centrality_list, bins=30, log_scale=(False, False))
             plt.title('Betweenness Centrality Histogram')
             plt.tight_layout()
             plt.savefig('Betweenness_Centrality_Histogram.png')
@@ -197,6 +210,38 @@ class AirportGraph:
         distances = [geopy.distance.distance(loc1, loc2).km for loc1, loc2 in edges_location]
         if log_scale_or_not:
             sns.histplot(distances, bins=50, log_scale=(True, True))
+            # plt.loglog(distances, 'bo')
+            # plt.yscale('log')
+            # plt.xscale('log')
+            plt.title('Distances Histogram (log log scale)')
+            plt.tight_layout()
+            plt.savefig('Distances_Histogram_(log log scale).png')
+            plt.show()
+        else:
+            sns.histplot(distances, bins=50, log_scale=(False, False))
+            plt.title('Distances Histogram')
+            plt.tight_layout()
+            plt.savefig('Distances_Histogram.png')
+            plt.show()
+    def plot_whole_distance_dist(self):
+        log_scale_or_not = True
+        locations = [(self.id_location_dict[id1], self.id_location_dict[id2]) for id1 in list(self.graph.nodes) for id2 in list(self.graph.nodes)]
+        world_distances = []
+        # distances = [geopy.distance.distance(loc1, loc2).km for loc1, loc2 in locations]
+        for i, (loc1, loc2) in enumerate(locations):
+            if i % 10000 == 0:
+                print(i)
+            dis = geopy.distance.distance(loc1, loc2).km
+            if dis:
+                world_distances.append(dis)
+
+        edges_location = [(self.id_location_dict[id1], self.id_location_dict[id2]) for id1, id2 in self.graph.edges]
+        distances = [geopy.distance.distance(loc1, loc2).km for loc1, loc2 in edges_location]
+        if log_scale_or_not:
+            sns.histplot(distances, bins=20, log_scale=(True, True), alpha=0.3, label='Our Graph', color='red')
+            sns.histplot(world_distances, bins=20, log_scale=(True, True), alpha=0.3, label='Whole World')
+            plt.legend(bbox_to_anchor=(1.05, 1.0), loc='upper left')
+
             # plt.loglog(distances, 'bo')
             # plt.yscale('log')
             # plt.xscale('log')

@@ -1,3 +1,5 @@
+import csv
+
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -43,6 +45,7 @@ class StatesGraph:
                 states_graph.add_node(state_to, weight=0)
             states_graph.nodes[state_from]['weight'] += weight
             states_graph.nodes[state_to]['weight'] += weight
+            # if states_graph.nodes[state_to]['weight']
             states_graph.add_edge(state_from, state_to)
         return states_graph
 
@@ -79,3 +82,30 @@ class StatesGraph:
         b_values = [np.log(x[1]['weight']) for x in b]
         pearson_corr, pvalue = pearsonr(a_values, b_values)
         print(f"Pearson Correlation is {pearson_corr}")
+
+    def create_dict_between_states_and_continent(self):
+        states_and_continent = {}
+
+        def add_to_dict(states_and_continent, x):
+            if x["state"] not in states_and_continent:
+                states_and_continent[x["state"]] = x["continent"]
+
+        self.nodes_graph_df.apply(lambda x: add_to_dict(states_and_continent, x), axis=1)
+        return states_and_continent
+
+    def create_states_file(self, graph, name='states_graph'):
+        nodes = graph.nodes(data=True)
+        nodes_idx = dict([(node[0], i) for i, node in enumerate(nodes)])
+        continent_dict = self.create_dict_between_states_and_continent()
+        nodes = [[nodes_idx[state], state, data['weight'], continent_dict[state]] for state, data in nodes]
+        edges = list(graph.edges)
+        edges = [[nodes_idx[node1], nodes_idx[node2], node1, node2] for node1, node2 in edges]
+        self.save_to_file([['id', 'state', 'weight', 'continent']] + nodes, name+"_nodes.csv")
+        self.save_to_file([['Source', 'Target', 'from', 'to']] + edges, name+"_edges.csv")
+
+
+    def save_to_file(self, lines_list, path):
+        with open(path, 'w', newline='') as file:
+            wr = csv.writer(file)
+            for line in lines_list:
+                wr.writerow(line)
