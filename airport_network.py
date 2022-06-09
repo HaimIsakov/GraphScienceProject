@@ -256,3 +256,26 @@ class AirportGraph:
             plt.savefig('Distances_Histogram.png')
             plt.show()
 
+    def conn_between_binary_in_degree_binary_out_degree(self):
+        in_degree = dict(self.graph.in_degree(weight='weight'))
+        in_degree_values = list(in_degree.values())
+
+        out_degree = dict(self.graph.out_degree(weight='weight'))
+        out_degree_values = list(out_degree.values())
+
+        plt.scatter(in_degree_values, out_degree_values)
+        corr, pvalue = pearsonr(in_degree_values, out_degree_values)
+        print(corr)
+        corr, pvalue = spearmanr(in_degree_values, out_degree_values)
+        print(corr)
+
+        plt.plot(np.linspace(min(in_degree_values), max(in_degree_values)), np.linspace(min(out_degree_values),
+                             max(out_degree_values)), "r--", label="y=x")
+        plt.xlabel("Weighted In Degree")
+        plt.ylabel("Weighted Out Degree")
+        # plt.xscale('log')
+        # plt.yscale('log')
+        plt.title("Weighted In Degree as a function of Weighted Out Degree")
+        plt.tight_layout()
+        plt.savefig("Weighted_In_Degree_as_a_function_of_Weighted_Out_Degree")
+        plt.show()

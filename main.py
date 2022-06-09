@@ -7,6 +7,7 @@ from states_network import *
 file_path = os.path.join("Data", "links_0.95.csv")
 nodes_file_path = os.path.join("Data", "nodes_0.95.csv")
 airport_graph = AirportGraph(nodes_file_path, file_path)
+airport_graph.conn_between_binary_in_degree_binary_out_degree()
 # airport_graph.conn_between_betweenes_weighted_degree()
 # airport_graph.conn_between_binary_degree_weighted_degree()
 # airport_graph.plot_degree_dist()
@@ -19,7 +20,7 @@ airport_graph = AirportGraph(nodes_file_path, file_path)
 # # k_top_airports = airport_graph.find_k_hubs(k)
 # airport_graph.plot_betweenness_centrality()
 # # print(k_top_airports)
-airport_graph.plot_whole_distance_dist()
+# airport_graph.plot_whole_distance_dist()
 #
 # States Network
 # state_graph = StatesGraph(nodes_file_path, airport_graph)

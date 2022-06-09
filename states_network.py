@@ -9,7 +9,8 @@ from scipy.stats import pearsonr
 
 
 def load_nodes_file(file_path):
-    col_names = ["airport_code", "airport_short_name", "airport_name", "loc1", "loc2", "unknown1", "unknown2", "state", "unknown3", "unknown4", "unknown5", "continent"]
+    col_names = ["airport_code", "airport_short_name", "airport_name", "loc1", "loc2", "unknown1", "unknown2", "state",
+                 "unknown3", "unknown4", "unknown5", "continent"]
     nodes_graph_df = pd.read_csv(file_path, names=col_names, sep=';', index_col=False)
     nodes_graph_df["airport_code"] = nodes_graph_df["airport_code"].astype(int)
     return nodes_graph_df
