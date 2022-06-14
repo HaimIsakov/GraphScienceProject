@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import networkx as nx
 import seaborn as sns
-import geopy.distance
+# import geopy.distance
 from states_network import load_nodes_file
 from scipy.stats import pearsonr, spearmanr
 
