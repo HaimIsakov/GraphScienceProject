@@ -12,7 +12,7 @@ airport_graph = AirportGraph(nodes_file_path, file_path)
 # compare_to_random(airport_graph.graph, "Airports graph")
 # create_random_network(airport_graph.graph)
 
-airport_graph.conn_between_binary_in_degree_binary_out_degree()
+# airport_graph.conn_between_binary_in_degree_binary_out_degree()
 # airport_graph.conn_between_betweenes_weighted_degree()
 # airport_graph.conn_between_binary_degree_weighted_degree()
 # airport_graph.plot_degree_dist()
@@ -28,7 +28,8 @@ airport_graph.conn_between_binary_in_degree_binary_out_degree()
 # airport_graph.plot_whole_distance_dist()
 #
 # States Network
-# state_graph = StatesGraph(nodes_file_path, airport_graph)
+state_graph = StatesGraph(nodes_file_path, airport_graph)
+x=1
 # state_graph.create_states_file(state_graph.states_graph, name='states_graph')
 # state_graph.create_states_file(state_graph.normalized_states_graph, name='norm_states_graph')
 # compare_to_random(state_graph.states_graph, "States graph")
